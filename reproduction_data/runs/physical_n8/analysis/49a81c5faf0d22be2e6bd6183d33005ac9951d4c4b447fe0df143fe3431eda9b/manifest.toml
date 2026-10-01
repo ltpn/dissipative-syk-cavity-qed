@@ -1,0 +1,62 @@
+analysis_id = "49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b"
+compatibility = ["runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/spectra/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=1.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/spectra/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=2.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/spectra/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=3.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/spectra/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=4.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/spectra/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=5.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/spectra/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=6.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/spectra/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=7.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/spectra/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=8.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/spectra/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=9.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/spectra/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=10.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/spectra/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=11.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/spectra/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=12.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/spectra/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=13.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/spectra/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=14.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/spectra/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=15.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/spectra/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=16.jld2"]
+compatibility_note = "complete"
+failed = 0
+outputs = ["runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/dynamics/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=1.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/dynamics/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=10.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/dynamics/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=11.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/dynamics/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=12.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/dynamics/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=13.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/dynamics/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=14.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/dynamics/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=15.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/dynamics/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=16.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/dynamics/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=2.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/dynamics/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=3.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/dynamics/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=4.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/dynamics/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=5.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/dynamics/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=6.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/dynamics/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=7.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/dynamics/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=8.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/dynamics/physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=9.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/sigma-sff/e8e3f69737f55494b997cac7608286bd0b1b728f9f142ac128bc992cd91c466d.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/dsff/e8e3f69737f55494b997cac7608286bd0b1b728f9f142ac128bc992cd91c466d.jld2", "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/csr/e8e3f69737f55494b997cac7608286bd0b1b728f9f142ac128bc992cd91c466d.jld2"]
+path_root = "../../../.."
+production_seed_count = 16
+replacements = []
+seed_note = "selected_seeds are realization slots; replacements record actual seeds independently for eigen and SVD"
+selected_seeds = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+shard_count = 1
+shard_index = 1
+tasks = ["sigma-sff", "dsff", "csr", "dynamics"]
+
+[settings]
+tasks = ["csr", "dsff", "dynamics", "sigma-sff"]
+
+    [settings.analysis]
+
+    [settings.dynamics]
+    entropy_eig_tol = 1.0e-12
+
+    [settings.sources.eigen]
+    "physical|2.0|1.0|1.0e-10|1" = "a710555e-1fb2-440c-b19a-8579b346bda1"
+    "physical|2.0|1.0|1.0e-10|10" = "56072a4f-427c-45f7-bdec-3c71d9f15e13"
+    "physical|2.0|1.0|1.0e-10|11" = "590eb8d2-5f73-462f-8d64-b49809457cb0"
+    "physical|2.0|1.0|1.0e-10|12" = "e2769a31-c233-47d4-a32c-46c22fb7f510"
+    "physical|2.0|1.0|1.0e-10|13" = "a3766fbb-2091-4a93-b9b4-137a9c9631a8"
+    "physical|2.0|1.0|1.0e-10|14" = "2f7a6d13-bada-483b-aa6c-6f44d1611a34"
+    "physical|2.0|1.0|1.0e-10|15" = "d52387a0-869a-4e67-9438-db2932dd0cdf"
+    "physical|2.0|1.0|1.0e-10|16" = "7366a462-6c8c-4102-a712-67857aa252eb"
+    "physical|2.0|1.0|1.0e-10|2" = "1d693b85-676a-4719-8e0d-1f85d1bdf0cd"
+    "physical|2.0|1.0|1.0e-10|3" = "eede4214-0c10-433a-8f7e-7b56620e37ec"
+    "physical|2.0|1.0|1.0e-10|4" = "12257570-5899-4b68-84ab-e92802b1b3a1"
+    "physical|2.0|1.0|1.0e-10|5" = "67308b00-8f2e-4e20-9fa4-4abc6c8a905d"
+    "physical|2.0|1.0|1.0e-10|6" = "1079c55f-2363-46f8-ad80-d7103b63a47b"
+    "physical|2.0|1.0|1.0e-10|7" = "cc8e05aa-07c7-4ee6-a042-7861ddb73c0b"
+    "physical|2.0|1.0|1.0e-10|8" = "3f9b2527-7011-4453-ab23-5c2141f95305"
+    "physical|2.0|1.0|1.0e-10|9" = "e782b807-10f7-45b6-bafe-0018dcecb46f"
+
+    [settings.sources.svd]
+    "physical|2.0|1.0|1.0e-10|1" = "317cb90c-1c68-40ea-8ccd-a469df03e3e3"
+    "physical|2.0|1.0|1.0e-10|10" = "cd993bb8-f284-4d4a-b512-e92f17f4c705"
+    "physical|2.0|1.0|1.0e-10|11" = "51b441ff-b911-4e81-a8df-b2f16d300d00"
+    "physical|2.0|1.0|1.0e-10|12" = "d65dc0c7-6088-45fb-a36e-34019b91735f"
+    "physical|2.0|1.0|1.0e-10|13" = "e980481f-a9eb-4e07-8265-e4e223ea7b50"
+    "physical|2.0|1.0|1.0e-10|14" = "257939ea-f8fd-4de4-bcf4-734b0f186230"
+    "physical|2.0|1.0|1.0e-10|15" = "b07d2611-9aca-4141-8518-9335b2285132"
+    "physical|2.0|1.0|1.0e-10|16" = "95f55560-da26-4170-b33f-32423dc52a2b"
+    "physical|2.0|1.0|1.0e-10|2" = "0ac1fe0b-004c-4735-a00f-9c7b046ef8da"
+    "physical|2.0|1.0|1.0e-10|3" = "49096963-07ea-47e0-9b61-b6100cbf0525"
+    "physical|2.0|1.0|1.0e-10|4" = "18108952-13f8-435f-b8e4-3daff7a56142"
+    "physical|2.0|1.0|1.0e-10|5" = "8032df77-a8ae-432e-a387-df684d512a7f"
+    "physical|2.0|1.0|1.0e-10|6" = "daa5223e-3f90-49e4-b16d-2e315ddd447e"
+    "physical|2.0|1.0|1.0e-10|7" = "43096204-8a89-4c74-a8d5-af0c28e38d43"
+    "physical|2.0|1.0|1.0e-10|8" = "83a59f09-d3c7-4004-ae83-39bd7f632a6e"
+    "physical|2.0|1.0|1.0e-10|9" = "ccd88b4e-72ab-44e0-96b6-ca0b85cda7b1"
+
+    [settings.time_grid]
+    n = 540
+    t_max = 1.0e6
+    t_min = 0.01

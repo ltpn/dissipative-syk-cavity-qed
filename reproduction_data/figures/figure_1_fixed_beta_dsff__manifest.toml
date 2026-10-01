@@ -1,0 +1,250 @@
+cache_dir = "derived/complex_dsff"
+density_bins = 256
+density_smoothing_sigma_bins = 2.0
+fixed_betas = [0.5]
+gaussian_filter_alpha_tilde = 1.0
+heisenberg_threshold = 0.95
+minimum_effective_count = 500.0
+n_bootstrap = 500
+n_seeds = 16
+path_root = ".."
+plateau_validation_points = 192
+plateau_validation_u_max = 10000.0
+plateau_validation_u_min = 100.0
+plot_x_max = 10.0
+plot_x_min = 0.0031622776601683794
+plotdata_jld2 = "figures/figure_1_fixed_beta_dsff__plotdata.jld2"
+ray_keys = ["theta_pi4"]
+smoke = false
+source_figure1_manifest_input = "figures/figure_1_source__manifest.toml"
+steady_tol = 1.0e-8
+
+[datasets.eta_0p1]
+config = "physical"
+eta = 0.1
+gamma = 1.0
+spectra_dir = "runs/physical_n10_q4/analysis/f09a308d6bacee5dd57871a07ae8bce15eebbafd31b3b66592ba4251e9121019/spectra"
+svd_tol = 1.0e-10
+
+[datasets.eta_0p4]
+config = "physical"
+eta = 0.4
+gamma = 1.0
+spectra_dir = "runs/physical_n10_q4/analysis/f09a308d6bacee5dd57871a07ae8bce15eebbafd31b3b66592ba4251e9121019/spectra"
+svd_tol = 1.0e-10
+
+[datasets.eta_1p0]
+config = "physical"
+eta = 1.0
+gamma = 1.0
+spectra_dir = "runs/physical_n10_q4/analysis/f09a308d6bacee5dd57871a07ae8bce15eebbafd31b3b66592ba4251e9121019/spectra"
+svd_tol = 1.0e-10
+
+[datasets.eta_2p0]
+config = "physical"
+eta = 2.0
+gamma = 1.0
+spectra_dir = "runs/physical_n10_q4/analysis/f09a308d6bacee5dd57871a07ae8bce15eebbafd31b3b66592ba4251e9121019/spectra"
+svd_tol = 1.0e-10
+
+[datasets.l3b]
+config = "synthetic_l3b_bdi_syk4"
+eta = 2.0
+gamma = 1.0
+spectra_dir = "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/spectra"
+svd_tol = 1.0e-10
+
+[ensemble]
+filling = 4
+gamma = 1.0
+l3b_config_name = "synthetic_l3b_bdi_syk4"
+l3b_eta = 2.0
+l3b_gamma = 1.0
+l3b_n_seeds = 16
+l3b_seed_range = [1, 16]
+l3b_spectra_dir = "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/spectra"
+n_orb = 10
+physical_etas = [0.1, 0.4, 1.0, 2.0]
+physical_n_seeds = 16
+physical_seed_range = [1, 16]
+
+[gaussian_ai_dagger_reference]
+alpha_tilde = 1.0
+chi = 7.155686024855862
+chi_bootstrap_lower = 6.596050807133281
+chi_bootstrap_median = 7.186650842530139
+chi_bootstrap_upper = 8.980567091611569
+matrix_sizes = [128, 256, 512]
+path = "data/ai_dagger/gaussian_ai_dagger_dsff_reference.jld2"
+rng_seed = 20260804
+seed_counts = [512, 256, 128]
+theta = 0.7853981633974483
+
+[policies.fixed_beta_1over2.preprocessing.eta_0p1]
+alpha_x = 2315.344796733952
+alpha_y = 2514.6410841338957
+analytic_plateau_mean = 809.4197053000343
+beta = 0.5
+cache_path = "derived/complex_dsff/fixed_beta_1over2/preprocess__eta_0p1__seeds=16.jld2"
+delta_x = 0.020782230758371267
+delta_y = 0.019941691648084348
+density_x_bounds = [-0.045056295104938096, 0.9866409111754829]
+density_y_bounds = [-0.9295669078695468, 0.9295669078695536]
+effective_density = 1.2433681452299466e6
+flatness = 0.37570337257490244
+mu_x = 0.44449414395361464
+mu_y = -0.43379789033912
+n_eff_by_seed = [1673.2582855349328, 1741.352341914109, 1567.1193399325691, 1675.2160546490768, 1773.3361898043115, 1823.3317133858588, 1760.63689263225, 1479.7386387015151, 1642.0066529567027, 1588.2213963319323, 1772.0901302078103, 1592.310573161739, 1506.8794260124807, 1542.666943837766, 1619.944294849788, 1528.194970120449]
+n_eff_median = 1630.9754739032455
+weighted_spacing = 4.577568718917917e-6
+weighted_spacing_by_seed = [4.84617066122223e-6, 4.481576212974738e-6, 4.583966728042246e-6, 4.201051345814897e-6, 4.510381354299928e-6, 5.588866427094974e-6, 4.861498982435702e-6, 4.3350556651288e-6, 4.287264936114758e-6, 4.366187081959642e-6, 4.2420704596085645e-6, 4.400133339510327e-6, 4.707920921272638e-6, 4.77815930962507e-6, 4.190811930231602e-6, 4.859984147350568e-6]
+z0 = -0.005212289233685635
+
+    [[policies.fixed_beta_1over2.preprocessing.eta_0p1.candidate_scores]]
+    beta = 0.5
+    flatness = 0.37570337257490244
+    n_eff = 1630.9754739032455
+    selected = true
+
+[policies.fixed_beta_1over2.preprocessing.eta_0p4]
+alpha_x = 667.6597228298659
+alpha_y = 755.9434666881216
+analytic_plateau_mean = 888.3340742676062
+beta = 0.5
+cache_path = "derived/complex_dsff/fixed_beta_1over2/preprocess__eta_0p4__seeds=16.jld2"
+delta_x = 0.038701019973306106
+delta_y = 0.036371008301234825
+density_x_bounds = [-0.04706122313726678, 1.0305447433936419]
+density_y_bounds = [-0.9261892145677412, 0.9261892145677472]
+effective_density = 401771.0978301319
+flatness = 0.42724003618220474
+mu_x = 0.5065324302570431
+mu_y = -0.48307123740199687
+n_eff_by_seed = [2407.518660565916, 2467.5947687627036, 2267.864976624059, 2361.056362581004, 2345.486475092795, 2275.5973499725196, 2262.56267759717, 2378.847664739246, 2223.80440372743, 2357.8858738827876, 2272.2506759007892, 2529.6242916524266, 2320.780671983243, 2478.366959649189, 2444.431607335785, 2375.112803010539]
+n_eff_median = 2359.471118231896
+weighted_spacing = 1.696475809887544e-5
+weighted_spacing_by_seed = [1.65372309972751e-5, 1.797463407743156e-5, 1.7128338861390017e-5, 1.7893491577446117e-5, 1.7558447578144537e-5, 1.6864288059883096e-5, 1.7388301793251915e-5, 1.6408678968871926e-5, 1.699912651039096e-5, 1.544452335039247e-5, 1.7517346916546727e-5, 1.7518716907326002e-5, 1.605496623586957e-5, 1.7351104056505664e-5, 1.7485416110499125e-5, 1.5311517580782198e-5]
+z0 = -0.060171033309226796
+
+    [[policies.fixed_beta_1over2.preprocessing.eta_0p4.candidate_scores]]
+    beta = 0.5
+    flatness = 0.42724003618220474
+    n_eff = 2359.471118231896
+    selected = true
+
+[policies.fixed_beta_1over2.preprocessing.eta_1p0]
+alpha_x = 80.24934170600477
+alpha_y = 66.30038172053624
+analytic_plateau_mean = 2088.294285814791
+beta = 0.5
+cache_path = "derived/complex_dsff/fixed_beta_1over2/preprocess__eta_1p0__seeds=16.jld2"
+delta_x = 0.1116295722890763
+delta_y = 0.12281233415335788
+density_x_bounds = [-0.05717594295049226, 1.252036465017955]
+density_y_bounds = [-0.8870744456693082, 0.8870744456693055]
+effective_density = 96972.94315767259
+flatness = 0.5547527304697403
+mu_x = 0.49217985176567974
+mu_y = -0.47658509433998186
+n_eff_by_seed = [6010.244776572123, 5854.948449432343, 5351.673388590958, 5433.484032535269, 5745.760171962679, 5840.951623961535, 5274.038614827081, 5891.218102122704, 6378.851946230917, 5835.362862607035, 5576.719218996772, 5650.668512824756, 5523.465653786517, 6000.231785546646, 5687.285784909072, 5888.509677110025]
+n_eff_median = 5790.5615172848575
+weighted_spacing = 8.544678988609263e-5
+weighted_spacing_by_seed = [9.038661718550919e-5, 8.692307252777744e-5, 8.036856277642851e-5, 7.855277157223707e-5, 8.775076623347636e-5, 8.800728251891247e-5, 7.967588713050293e-5, 8.527514746808334e-5, 9.045125215800517e-5, 8.651964922267017e-5, 8.68663480884792e-5, 8.580539732399544e-5, 8.309753202787883e-5, 8.635054316011069e-5, 8.353149581080704e-5, 8.75863129726083e-5]
+z0 = -0.21825036007522347
+
+    [[policies.fixed_beta_1over2.preprocessing.eta_1p0.candidate_scores]]
+    beta = 0.5
+    flatness = 0.5547527304697403
+    n_eff = 5790.5615172848575
+    selected = true
+
+[policies.fixed_beta_1over2.preprocessing.eta_2p0]
+alpha_x = 49.28040212247893
+alpha_y = 49.48468705768269
+analytic_plateau_mean = 3152.390710468162
+beta = 0.5
+cache_path = "derived/complex_dsff/fixed_beta_1over2/preprocess__eta_2p0__seeds=16.jld2"
+delta_x = 0.14245013938251905
+delta_y = 0.14215580072145692
+density_x_bounds = [-0.04957807941874495, 1.0856587595166196]
+density_y_bounds = [-0.903277752191575, 0.9032777521915819]
+effective_density = 99104.34546181576
+flatness = 0.4430355410599893
+mu_x = 0.5069105671181986
+mu_y = -0.49237493158677853
+n_eff_by_seed = [9043.157298844599, 8431.476627081824, 7978.581316595938, 7870.268772277162, 8080.0198139369695, 8528.776407940424, 8988.857093455836, 8644.414598979645, 9101.879204627616, 8951.879759130914, 7559.552978906091, 8697.860686960508, 8144.053034789505, 8547.757935393744, 7424.309876544268, 8853.61612991789]
+n_eff_median = 8538.267171667085
+weighted_spacing = 0.00013381652934324592
+weighted_spacing_by_seed = [0.0001412794450303532, 0.00013699804145983875, 0.00012873274935881103, 0.00012489998306657371, 0.00013004825260524403, 0.00013669562593737752, 0.0001413067780423876, 0.00013650438595319548, 0.00014329929192929391, 0.0001409853400612484, 0.00012092584219542252, 0.00013720992418549493, 0.0001305646119924982, 0.00013464372846490634, 0.00011791931802913676, 0.00013905115118015233]
+z0 = -0.3975906296714299
+
+    [[policies.fixed_beta_1over2.preprocessing.eta_2p0.candidate_scores]]
+    beta = 0.5
+    flatness = 0.4430355410599893
+    n_eff = 8538.267171667085
+    selected = true
+
+[policies.fixed_beta_1over2.preprocessing.l3b]
+alpha_x = 241.4058325243237
+alpha_y = 207.1020319402006
+analytic_plateau_mean = 1125.1259177480065
+beta = 0.5
+cache_path = "derived/complex_dsff/fixed_beta_1over2/preprocess__l3b__seeds=16.jld2"
+delta_x = 0.06436149458850016
+delta_y = 0.06948768128114646
+density_x_bounds = [-0.0646408193220256, 1.4155020231129798]
+density_y_bounds = [-0.9549794321624959, 0.9549794321624953]
+effective_density = 160157.51114999998
+flatness = 0.4918162866007372
+mu_x = 0.6202880254126044
+mu_y = -0.6029477983457329
+n_eff_by_seed = [3207.589372649935, 3402.4231934594036, 3198.796617343208, 3559.059694591856, 2663.060575903506, 3459.887106847379, 3275.8404554579547, 3017.246231516794, 2637.4831159747077, 3083.634614863576, 2484.3078073833753, 3308.480082160882, 3454.9030507042407, 2442.9524463810485, 2891.695537175883, 3095.520122508495]
+n_eff_median = 3147.1583699258517
+weighted_spacing = 3.540228773394515e-5
+weighted_spacing_by_seed = [3.7235625225571265e-5, 3.8561104952591166e-5, 3.650521583142269e-5, 4.0418827864009724e-5, 3.090175400248789e-5, 3.926522697771603e-5, 3.774539182529137e-5, 3.567059904169627e-5, 3.057701588503353e-5, 3.560108117718368e-5, 2.927399436550395e-5, 3.857448166938705e-5, 3.918705632232075e-5, 2.778005207417572e-5, 3.332674633505358e-5, 3.581243019367762e-5]
+z0 = -0.6358372594049688
+
+    [[policies.fixed_beta_1over2.preprocessing.l3b.candidate_scores]]
+    beta = 0.5
+    flatness = 0.4918162866007372
+    n_eff = 3147.1583699258517
+    selected = true
+
+[policies.fixed_beta_1over2.rays.theta_pi4]
+chi = 7.155686024855862
+chi_bootstrap_lower = 6.596050807133281
+chi_bootstrap_median = 7.186650842530139
+chi_bootstrap_upper = 8.980567091611569
+ramp_start_u = nan
+theta = 0.7853981633974483
+
+    [policies.fixed_beta_1over2.rays.theta_pi4.asymptotic_plateau_validation]
+    bootstrap_68_lower = 1.010885907646093
+    bootstrap_68_upper = 1.071872358584541
+    bootstrap_95_lower = 0.9669350295418468
+    bootstrap_95_upper = 1.0898946512858076
+    cache_path = "derived/complex_dsff/fixed_beta_1over2/plateau_validation__l3b__theta_pi4__seeds=16.jld2"
+    consistent_68 = false
+    consistent_95 = true
+    empirical_mean = 1.0396164200209135
+    expected_projected_plateau_over_P = 0.9999999999999953
+
+    [policies.fixed_beta_1over2.rays.theta_pi4.curves.eta_0p1]
+    cache_path = "derived/complex_dsff/fixed_beta_1over2/curve__eta_0p1__theta_pi4__seeds=16.jld2"
+    omitted_nonpositive = 0
+
+    [policies.fixed_beta_1over2.rays.theta_pi4.curves.eta_0p4]
+    cache_path = "derived/complex_dsff/fixed_beta_1over2/curve__eta_0p4__theta_pi4__seeds=16.jld2"
+    omitted_nonpositive = 0
+
+    [policies.fixed_beta_1over2.rays.theta_pi4.curves.eta_1p0]
+    cache_path = "derived/complex_dsff/fixed_beta_1over2/curve__eta_1p0__theta_pi4__seeds=16.jld2"
+    omitted_nonpositive = 0
+
+    [policies.fixed_beta_1over2.rays.theta_pi4.curves.eta_2p0]
+    cache_path = "derived/complex_dsff/fixed_beta_1over2/curve__eta_2p0__theta_pi4__seeds=16.jld2"
+    omitted_nonpositive = 0
+
+    [policies.fixed_beta_1over2.rays.theta_pi4.curves.l3b]
+    cache_path = "derived/complex_dsff/fixed_beta_1over2/curve__l3b__theta_pi4__seeds=16.jld2"
+    omitted_nonpositive = 0

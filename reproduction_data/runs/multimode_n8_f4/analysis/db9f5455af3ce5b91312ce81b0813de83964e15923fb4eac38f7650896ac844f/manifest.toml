@@ -1,0 +1,62 @@
+analysis_id = "db9f5455af3ce5b91312ce81b0813de83964e15923fb4eac38f7650896ac844f"
+compatibility = ["runs/multimode_n8_f4/analysis/db9f5455af3ce5b91312ce81b0813de83964e15923fb4eac38f7650896ac844f/multimode/multimode_centered__norb=8__f=4__ngrid=160__M=300__deltacd=1__dtilde=0p01.jld2"]
+compatibility_note = "complete"
+failed = 0
+outputs = ["runs/multimode_n8_f4/analysis/db9f5455af3ce5b91312ce81b0813de83964e15923fb4eac38f7650896ac844f/dynamics/multimode__dtilde=0.01__seed=1.jld2", "runs/multimode_n8_f4/analysis/db9f5455af3ce5b91312ce81b0813de83964e15923fb4eac38f7650896ac844f/dynamics/multimode__dtilde=0.01__seed=10.jld2", "runs/multimode_n8_f4/analysis/db9f5455af3ce5b91312ce81b0813de83964e15923fb4eac38f7650896ac844f/dynamics/multimode__dtilde=0.01__seed=11.jld2", "runs/multimode_n8_f4/analysis/db9f5455af3ce5b91312ce81b0813de83964e15923fb4eac38f7650896ac844f/dynamics/multimode__dtilde=0.01__seed=12.jld2", "runs/multimode_n8_f4/analysis/db9f5455af3ce5b91312ce81b0813de83964e15923fb4eac38f7650896ac844f/dynamics/multimode__dtilde=0.01__seed=13.jld2", "runs/multimode_n8_f4/analysis/db9f5455af3ce5b91312ce81b0813de83964e15923fb4eac38f7650896ac844f/dynamics/multimode__dtilde=0.01__seed=14.jld2", "runs/multimode_n8_f4/analysis/db9f5455af3ce5b91312ce81b0813de83964e15923fb4eac38f7650896ac844f/dynamics/multimode__dtilde=0.01__seed=15.jld2", "runs/multimode_n8_f4/analysis/db9f5455af3ce5b91312ce81b0813de83964e15923fb4eac38f7650896ac844f/dynamics/multimode__dtilde=0.01__seed=16.jld2", "runs/multimode_n8_f4/analysis/db9f5455af3ce5b91312ce81b0813de83964e15923fb4eac38f7650896ac844f/dynamics/multimode__dtilde=0.01__seed=2.jld2", "runs/multimode_n8_f4/analysis/db9f5455af3ce5b91312ce81b0813de83964e15923fb4eac38f7650896ac844f/dynamics/multimode__dtilde=0.01__seed=3.jld2", "runs/multimode_n8_f4/analysis/db9f5455af3ce5b91312ce81b0813de83964e15923fb4eac38f7650896ac844f/dynamics/multimode__dtilde=0.01__seed=4.jld2", "runs/multimode_n8_f4/analysis/db9f5455af3ce5b91312ce81b0813de83964e15923fb4eac38f7650896ac844f/dynamics/multimode__dtilde=0.01__seed=5.jld2", "runs/multimode_n8_f4/analysis/db9f5455af3ce5b91312ce81b0813de83964e15923fb4eac38f7650896ac844f/dynamics/multimode__dtilde=0.01__seed=6.jld2", "runs/multimode_n8_f4/analysis/db9f5455af3ce5b91312ce81b0813de83964e15923fb4eac38f7650896ac844f/dynamics/multimode__dtilde=0.01__seed=7.jld2", "runs/multimode_n8_f4/analysis/db9f5455af3ce5b91312ce81b0813de83964e15923fb4eac38f7650896ac844f/dynamics/multimode__dtilde=0.01__seed=8.jld2", "runs/multimode_n8_f4/analysis/db9f5455af3ce5b91312ce81b0813de83964e15923fb4eac38f7650896ac844f/dynamics/multimode__dtilde=0.01__seed=9.jld2", "runs/multimode_n8_f4/analysis/db9f5455af3ce5b91312ce81b0813de83964e15923fb4eac38f7650896ac844f/sigma-sff/3e1059d660fd3fab0f6ee4896e7fb5412eff7c3b9639960b249c12193a09bf0f.jld2", "runs/multimode_n8_f4/analysis/db9f5455af3ce5b91312ce81b0813de83964e15923fb4eac38f7650896ac844f/dsff/3e1059d660fd3fab0f6ee4896e7fb5412eff7c3b9639960b249c12193a09bf0f.jld2", "runs/multimode_n8_f4/analysis/db9f5455af3ce5b91312ce81b0813de83964e15923fb4eac38f7650896ac844f/csr/3e1059d660fd3fab0f6ee4896e7fb5412eff7c3b9639960b249c12193a09bf0f.jld2"]
+path_root = "../../../.."
+production_seed_count = 16
+replacements = []
+seed_note = "selected_seeds are realization slots; replacements record actual seeds independently for eigen and SVD"
+selected_seeds = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+shard_count = 1
+shard_index = 1
+tasks = ["sigma-sff", "dsff", "csr", "dynamics"]
+
+[settings]
+tasks = ["csr", "dsff", "dynamics", "sigma-sff"]
+
+    [settings.analysis]
+
+    [settings.dynamics]
+    entropy_eig_tol = 1.0e-12
+
+    [settings.sources.eigen]
+    "multimode__dtilde=0.01__seed=1" = "e0d5adef-48b7-40b5-9c98-63e0f67d7d0b"
+    "multimode__dtilde=0.01__seed=10" = "8c94e8e3-02bc-4abe-86a9-7c49afd03a11"
+    "multimode__dtilde=0.01__seed=11" = "2322bdbc-6aaa-4024-a72b-a546668a4d3d"
+    "multimode__dtilde=0.01__seed=12" = "65fb5ad6-3dc1-429f-8bf3-050db2c7dac0"
+    "multimode__dtilde=0.01__seed=13" = "130a2726-9b5d-4743-90af-40ef0dc4d109"
+    "multimode__dtilde=0.01__seed=14" = "8b75bd89-0589-401b-b154-5878e4f98665"
+    "multimode__dtilde=0.01__seed=15" = "c661ab92-9163-4d91-99e0-45ebd33b9b76"
+    "multimode__dtilde=0.01__seed=16" = "6f389f38-b15a-4f82-af08-c01c14646abd"
+    "multimode__dtilde=0.01__seed=2" = "0f5a27a9-3766-48ee-9355-a8361e047f99"
+    "multimode__dtilde=0.01__seed=3" = "7367957a-75a9-45e1-b6ca-51551a8dc875"
+    "multimode__dtilde=0.01__seed=4" = "c4cb7875-cee7-4ae2-b846-6e858c679431"
+    "multimode__dtilde=0.01__seed=5" = "46fc39ff-7e66-4640-88ae-2bd3671cd48c"
+    "multimode__dtilde=0.01__seed=6" = "0a4dda54-4001-4875-a400-ab9722b15883"
+    "multimode__dtilde=0.01__seed=7" = "7b0f0469-926d-40b7-8449-ea0479a21bba"
+    "multimode__dtilde=0.01__seed=8" = "a225b55a-9f7c-4ac2-a149-20984749eded"
+    "multimode__dtilde=0.01__seed=9" = "56b04f33-d410-4218-8e2f-8f7e8a8bcab7"
+
+    [settings.sources.svd]
+    "multimode__dtilde=0.01__seed=1" = "1ec8106c-6068-48aa-91d1-b740e546b6b2"
+    "multimode__dtilde=0.01__seed=10" = "0800e076-9daf-4898-a77d-98632b2de6dc"
+    "multimode__dtilde=0.01__seed=11" = "d7aa47fc-e48d-408f-a60b-ede8af373cc3"
+    "multimode__dtilde=0.01__seed=12" = "326fa06e-8acf-4b23-af85-aea6f90fb93b"
+    "multimode__dtilde=0.01__seed=13" = "4b3f6724-5343-41d6-ba49-356d8c0b8d59"
+    "multimode__dtilde=0.01__seed=14" = "8f335ab4-62af-4593-84cb-d72cd0653339"
+    "multimode__dtilde=0.01__seed=15" = "1b25d2e0-dfe6-472d-b410-a74db0acc6b3"
+    "multimode__dtilde=0.01__seed=16" = "ed64e0f6-884f-426f-b057-6695384b44b2"
+    "multimode__dtilde=0.01__seed=2" = "fd24c039-942c-40bb-b438-c5ecaab09b64"
+    "multimode__dtilde=0.01__seed=3" = "502b12ad-fa68-42c3-b6c9-e824382965ea"
+    "multimode__dtilde=0.01__seed=4" = "df754038-05bd-4512-8bc3-fa33e2841971"
+    "multimode__dtilde=0.01__seed=5" = "5dd513d8-054f-4a9d-a755-3b48e31badac"
+    "multimode__dtilde=0.01__seed=6" = "52e17ffb-47b7-4206-99bb-df4588ee17eb"
+    "multimode__dtilde=0.01__seed=7" = "f0b223af-fdd7-4782-bd40-6d6c5e1dd071"
+    "multimode__dtilde=0.01__seed=8" = "1e9fa609-b35d-4483-94c2-b246c2a6e102"
+    "multimode__dtilde=0.01__seed=9" = "57bb8c3a-9e42-4512-a741-c71453553f05"
+
+    [settings.time_grid]
+    n = 540
+    t_max = 1.0e6
+    t_min = 0.01

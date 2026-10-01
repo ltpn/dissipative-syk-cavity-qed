@@ -1,0 +1,12 @@
+schema_version = 1
+
+[headers."multimode__dtilde=10.0__seed=39.jld2"]
+artifact_id = "117f1ec4-55a6-40f6-a0ed-cc1cf58f40d6"
+code_revision = "unknown"
+dimension = 44100
+generation_id = "cd12f653e59de2be3f6eb048209a77fc43593485f09016e90c092c84d878af66"
+physics_id = "9d70ad3ffc36905b80b7c4f044f4cc97c2fc14b3e9b093b09eb8f662aad3fba7"
+point_id = "multimode__dtilde=10.0__seed=39"
+schema_version = 1
+source_id = ""
+stage = "generate"

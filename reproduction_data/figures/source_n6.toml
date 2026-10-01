@@ -1,0 +1,8 @@
+cache_dir = "derived/sigma_sff/n6_f3"
+cache_paths = ["derived/sigma_sff/n6_f3/production_centered__norb=6__f=3__gamma=1__eta=2.jld2"]
+config = "runs/physical_n6/config.toml"
+etas = [2.0]
+n_seeds = 16
+path_root = ".."
+spectra_dir = "runs/physical_n6/analysis/b03e64f75bf011d206bba3b0ff116cf60b00297238cf1709758535f2a0aa2931/spectra"
+svd_tol = 1.0e-10

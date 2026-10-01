@@ -1,0 +1,12 @@
+path_root = "../../.."
+
+[[replacements]]
+directory = "runs/syk4_control/recovery/attempts/seed-17"
+seed = 17
+slot_id = "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|5"
+stage = "eigen"
+[[replacements]]
+directory = "runs/syk4_control/recovery/attempts/seed-19"
+seed = 19
+slot_id = "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|7"
+stage = "eigen"

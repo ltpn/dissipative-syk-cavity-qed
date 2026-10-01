@@ -1,0 +1,28 @@
+model = "multimode"
+[grid]
+delta_tildes = [0.01]
+seed_count = 16
+[numerics]
+n_orb = 6
+filling = 3
+n_grid = 160
+box_length = 15.0
+zeta = 1.0
+mode_cutoff = 300
+weight_type = "speckle"
+speckle_grains_per_side = 17.0
+disorder_strength = 1.0
+drive_wavevector = 0.0
+energy_scale = 1.0
+[numerics.time_grid]
+t_min = 0.01
+t_max = 1e6
+n = 540
+[loss]
+kappa_over_2pi_mhz = 0.2
+delta_cd_over_2pi_mhz = 1.0
+gamma_over_2pi_mhz = 5.9
+delta_da_over_2pi_mhz = 3000.0
+rate_scale = 1.0
+[dynamics]
+entropy_eig_tol = 1e-12

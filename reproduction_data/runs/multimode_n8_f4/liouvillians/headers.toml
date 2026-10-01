@@ -1,0 +1,177 @@
+schema_version = 1
+
+[headers."multimode__dtilde=0.01__seed=1.jld2"]
+artifact_id = "29e01617-afd7-450a-b83b-ee655352a8d8"
+code_revision = "unknown"
+dimension = 4900
+generation_id = "687dcbe0055a9709b1926b17ca54a6359243f2fda8a90781f6405f79fc7ccc3f"
+physics_id = "2b8073bff077907d19034a367154e045cecaf3f6d90a76e084530b846ec40932"
+point_id = "multimode__dtilde=0.01__seed=1"
+schema_version = 1
+source_id = ""
+stage = "generate"
+
+[headers."multimode__dtilde=0.01__seed=10.jld2"]
+artifact_id = "139ce59d-58e5-4c46-8bd9-621537033e1f"
+code_revision = "unknown"
+dimension = 4900
+generation_id = "687dcbe0055a9709b1926b17ca54a6359243f2fda8a90781f6405f79fc7ccc3f"
+physics_id = "2b8073bff077907d19034a367154e045cecaf3f6d90a76e084530b846ec40932"
+point_id = "multimode__dtilde=0.01__seed=10"
+schema_version = 1
+source_id = ""
+stage = "generate"
+
+[headers."multimode__dtilde=0.01__seed=11.jld2"]
+artifact_id = "c028e0db-cdfb-4a1e-adb2-a7b385b32047"
+code_revision = "unknown"
+dimension = 4900
+generation_id = "687dcbe0055a9709b1926b17ca54a6359243f2fda8a90781f6405f79fc7ccc3f"
+physics_id = "2b8073bff077907d19034a367154e045cecaf3f6d90a76e084530b846ec40932"
+point_id = "multimode__dtilde=0.01__seed=11"
+schema_version = 1
+source_id = ""
+stage = "generate"
+
+[headers."multimode__dtilde=0.01__seed=12.jld2"]
+artifact_id = "1cb7f665-2b13-491b-80cf-6c24e9545d98"
+code_revision = "unknown"
+dimension = 4900
+generation_id = "687dcbe0055a9709b1926b17ca54a6359243f2fda8a90781f6405f79fc7ccc3f"
+physics_id = "2b8073bff077907d19034a367154e045cecaf3f6d90a76e084530b846ec40932"
+point_id = "multimode__dtilde=0.01__seed=12"
+schema_version = 1
+source_id = ""
+stage = "generate"
+
+[headers."multimode__dtilde=0.01__seed=13.jld2"]
+artifact_id = "ad17b7ea-2fbf-4fb4-91f5-a70a5198c1a2"
+code_revision = "unknown"
+dimension = 4900
+generation_id = "687dcbe0055a9709b1926b17ca54a6359243f2fda8a90781f6405f79fc7ccc3f"
+physics_id = "2b8073bff077907d19034a367154e045cecaf3f6d90a76e084530b846ec40932"
+point_id = "multimode__dtilde=0.01__seed=13"
+schema_version = 1
+source_id = ""
+stage = "generate"
+
+[headers."multimode__dtilde=0.01__seed=14.jld2"]
+artifact_id = "d9da41f7-370e-46f5-8972-f00d56031468"
+code_revision = "unknown"
+dimension = 4900
+generation_id = "687dcbe0055a9709b1926b17ca54a6359243f2fda8a90781f6405f79fc7ccc3f"
+physics_id = "2b8073bff077907d19034a367154e045cecaf3f6d90a76e084530b846ec40932"
+point_id = "multimode__dtilde=0.01__seed=14"
+schema_version = 1
+source_id = ""
+stage = "generate"
+
+[headers."multimode__dtilde=0.01__seed=15.jld2"]
+artifact_id = "ddc4cbed-94eb-4edb-9d33-204565cb383f"
+code_revision = "unknown"
+dimension = 4900
+generation_id = "687dcbe0055a9709b1926b17ca54a6359243f2fda8a90781f6405f79fc7ccc3f"
+physics_id = "2b8073bff077907d19034a367154e045cecaf3f6d90a76e084530b846ec40932"
+point_id = "multimode__dtilde=0.01__seed=15"
+schema_version = 1
+source_id = ""
+stage = "generate"
+
+[headers."multimode__dtilde=0.01__seed=16.jld2"]
+artifact_id = "8b533195-4449-48f6-9023-2e6375e59fa0"
+code_revision = "unknown"
+dimension = 4900
+generation_id = "687dcbe0055a9709b1926b17ca54a6359243f2fda8a90781f6405f79fc7ccc3f"
+physics_id = "2b8073bff077907d19034a367154e045cecaf3f6d90a76e084530b846ec40932"
+point_id = "multimode__dtilde=0.01__seed=16"
+schema_version = 1
+source_id = ""
+stage = "generate"
+
+[headers."multimode__dtilde=0.01__seed=2.jld2"]
+artifact_id = "fd07032e-733d-4a73-b4e5-f67066854632"
+code_revision = "unknown"
+dimension = 4900
+generation_id = "687dcbe0055a9709b1926b17ca54a6359243f2fda8a90781f6405f79fc7ccc3f"
+physics_id = "2b8073bff077907d19034a367154e045cecaf3f6d90a76e084530b846ec40932"
+point_id = "multimode__dtilde=0.01__seed=2"
+schema_version = 1
+source_id = ""
+stage = "generate"
+
+[headers."multimode__dtilde=0.01__seed=3.jld2"]
+artifact_id = "2edd6a3c-d5da-4617-927f-9dd384617901"
+code_revision = "unknown"
+dimension = 4900
+generation_id = "687dcbe0055a9709b1926b17ca54a6359243f2fda8a90781f6405f79fc7ccc3f"
+physics_id = "2b8073bff077907d19034a367154e045cecaf3f6d90a76e084530b846ec40932"
+point_id = "multimode__dtilde=0.01__seed=3"
+schema_version = 1
+source_id = ""
+stage = "generate"
+
+[headers."multimode__dtilde=0.01__seed=4.jld2"]
+artifact_id = "dd8227de-e527-4687-8bc5-7a095c52e0d2"
+code_revision = "unknown"
+dimension = 4900
+generation_id = "687dcbe0055a9709b1926b17ca54a6359243f2fda8a90781f6405f79fc7ccc3f"
+physics_id = "2b8073bff077907d19034a367154e045cecaf3f6d90a76e084530b846ec40932"
+point_id = "multimode__dtilde=0.01__seed=4"
+schema_version = 1
+source_id = ""
+stage = "generate"
+
+[headers."multimode__dtilde=0.01__seed=5.jld2"]
+artifact_id = "e6e567a2-8a49-4082-835e-cd93cc700568"
+code_revision = "unknown"
+dimension = 4900
+generation_id = "687dcbe0055a9709b1926b17ca54a6359243f2fda8a90781f6405f79fc7ccc3f"
+physics_id = "2b8073bff077907d19034a367154e045cecaf3f6d90a76e084530b846ec40932"
+point_id = "multimode__dtilde=0.01__seed=5"
+schema_version = 1
+source_id = ""
+stage = "generate"
+
+[headers."multimode__dtilde=0.01__seed=6.jld2"]
+artifact_id = "7b9c3888-862b-433b-9184-049b8d1f1e21"
+code_revision = "unknown"
+dimension = 4900
+generation_id = "687dcbe0055a9709b1926b17ca54a6359243f2fda8a90781f6405f79fc7ccc3f"
+physics_id = "2b8073bff077907d19034a367154e045cecaf3f6d90a76e084530b846ec40932"
+point_id = "multimode__dtilde=0.01__seed=6"
+schema_version = 1
+source_id = ""
+stage = "generate"
+
+[headers."multimode__dtilde=0.01__seed=7.jld2"]
+artifact_id = "8871c438-2451-4cf0-9021-7c1317cbafc2"
+code_revision = "unknown"
+dimension = 4900
+generation_id = "687dcbe0055a9709b1926b17ca54a6359243f2fda8a90781f6405f79fc7ccc3f"
+physics_id = "2b8073bff077907d19034a367154e045cecaf3f6d90a76e084530b846ec40932"
+point_id = "multimode__dtilde=0.01__seed=7"
+schema_version = 1
+source_id = ""
+stage = "generate"
+
+[headers."multimode__dtilde=0.01__seed=8.jld2"]
+artifact_id = "4749979a-7f51-48a9-aaa6-5fba846a13f6"
+code_revision = "unknown"
+dimension = 4900
+generation_id = "687dcbe0055a9709b1926b17ca54a6359243f2fda8a90781f6405f79fc7ccc3f"
+physics_id = "2b8073bff077907d19034a367154e045cecaf3f6d90a76e084530b846ec40932"
+point_id = "multimode__dtilde=0.01__seed=8"
+schema_version = 1
+source_id = ""
+stage = "generate"
+
+[headers."multimode__dtilde=0.01__seed=9.jld2"]
+artifact_id = "83231fe8-4217-4c3c-a1d7-5b3cf7d75d34"
+code_revision = "unknown"
+dimension = 4900
+generation_id = "687dcbe0055a9709b1926b17ca54a6359243f2fda8a90781f6405f79fc7ccc3f"
+physics_id = "2b8073bff077907d19034a367154e045cecaf3f6d90a76e084530b846ec40932"
+point_id = "multimode__dtilde=0.01__seed=9"
+schema_version = 1
+source_id = ""
+stage = "generate"

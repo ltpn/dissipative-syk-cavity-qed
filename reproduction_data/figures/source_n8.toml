@@ -1,0 +1,8 @@
+cache_dir = "derived/sigma_sff/n8_f4"
+cache_paths = ["derived/sigma_sff/n8_f4/production_centered__norb=8__f=4__gamma=1__eta=2.jld2"]
+config = "runs/physical_n8/config.toml"
+etas = [2.0]
+n_seeds = 16
+path_root = ".."
+spectra_dir = "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b/spectra"
+svd_tol = 1.0e-10

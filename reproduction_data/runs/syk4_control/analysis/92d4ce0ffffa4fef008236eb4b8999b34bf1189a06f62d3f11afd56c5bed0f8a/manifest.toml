@@ -1,0 +1,73 @@
+analysis_id = "92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a"
+compatibility = ["runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/spectra/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=1.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/spectra/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=2.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/spectra/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=3.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/spectra/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=4.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/spectra/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=5.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/spectra/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=6.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/spectra/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=7.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/spectra/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=8.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/spectra/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=9.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/spectra/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=10.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/spectra/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=11.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/spectra/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=12.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/spectra/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=13.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/spectra/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=14.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/spectra/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=15.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/spectra/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=16.jld2"]
+compatibility_note = "complete"
+failed = 0
+outputs = ["runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/dynamics/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=1.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/dynamics/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=10.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/dynamics/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=11.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/dynamics/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=12.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/dynamics/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=13.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/dynamics/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=14.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/dynamics/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=15.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/dynamics/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=16.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/dynamics/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=2.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/dynamics/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=3.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/dynamics/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=4.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/dynamics/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=5.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/dynamics/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=6.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/dynamics/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=7.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/dynamics/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=8.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/dynamics/synthetic_l3b_bdi_syk4__eta=2.0__gamma=1.0__tol=1.0e-10__seed=9.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/sigma-sff/ae5c430d39b917fe4b892cfad525c312fe5ddc12690ab9e6074d05003d5b44e0.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/dsff/ae5c430d39b917fe4b892cfad525c312fe5ddc12690ab9e6074d05003d5b44e0.jld2", "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/csr/ae5c430d39b917fe4b892cfad525c312fe5ddc12690ab9e6074d05003d5b44e0.jld2"]
+path_root = "../../../.."
+production_seed_count = 16
+seed_note = "selected_seeds are realization slots; replacements record actual seeds independently for eigen and SVD"
+selected_seeds = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+shard_count = 1
+shard_index = 1
+tasks = ["sigma-sff", "dsff", "csr", "dynamics"]
+
+[[replacements]]
+directory = "runs/syk4_control/recovery/attempts/seed-17"
+seed = 17
+slot_id = "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|5"
+stage = "eigen"
+[[replacements]]
+directory = "runs/syk4_control/recovery/attempts/seed-19"
+seed = 19
+slot_id = "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|7"
+stage = "eigen"
+
+[settings]
+replacement_export_schema = 1
+tasks = ["csr", "dsff", "dynamics", "sigma-sff"]
+
+    [settings.analysis]
+
+    [settings.dynamics]
+    entropy_eig_tol = 1.0e-12
+
+    [settings.sources.eigen]
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|1" = "55239b6d-6874-4a9c-8c45-f98ccdee88b4"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|10" = "334c5c17-83ed-4b30-b465-6ef95a0187d7"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|11" = "76c555ab-435e-4951-ae2b-8920ebd4eed2"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|12" = "562ac4fa-36c1-42c2-a825-81fc36a22b37"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|13" = "1189329e-9476-4d94-8c96-fececcb8cf85"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|14" = "ec326865-74ec-444d-8a48-973f9280f514"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|15" = "8e8d4147-c658-46b6-bc21-5bc7465aea04"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|16" = "787c8d2c-c4b6-4603-91bf-cee33016c739"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|2" = "1cab5e71-d791-4859-9a2f-dd2b2bddc815"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|3" = "ab20f867-5602-44af-8559-8a64f4b83a5f"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|4" = "f2884bf7-65c2-448b-a3b0-34321c2bf0e9"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|5" = "1176fd34-873d-48d0-a2c0-6b0e63c7d88c"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|6" = "0bda4fe6-9501-45f8-bcf6-9be297a0fc74"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|7" = "1450200d-333a-4225-bc55-2d75da94ad69"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|8" = "229b4dec-d818-4629-8dfe-a46771514669"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|9" = "0588d9a7-a867-4c50-aafd-6b69b49e01d4"
+
+    [settings.sources.svd]
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|1" = "d8141aa3-d829-4afe-8493-0c35f71d9f8b"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|10" = "7e12fd75-c40f-4e66-ae66-e9a28b25858a"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|11" = "df0f8726-425d-477e-9efd-ee8039c09539"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|12" = "af36dc5f-5fcc-4440-85be-1d9e9ef2483e"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|13" = "06a528f0-1774-4774-b8fb-fca10c7fad35"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|14" = "3b35dc98-7edf-45c5-85bd-41d65b789caa"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|15" = "54ab67c8-55bc-4e1f-934f-6e9a1a5ae3ce"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|16" = "6a724938-5ef9-4d78-a302-21bc0b949ac8"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|2" = "9c0017ae-80ab-4e2c-ac9c-185b3603559b"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|3" = "7e72aeb0-8a8b-477e-8ef5-d86e3b1fb627"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|4" = "2f7ced01-973f-444b-9487-2b2801cb60c5"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|5" = "0e9314f6-ee29-4d79-811d-b14908b97eed"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|6" = "95de8658-cf4a-4c8b-9efa-504b7dbaf607"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|7" = "88004770-8996-4aa4-8953-69f63b7f6e02"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|8" = "cacc8aab-2be2-4c4d-a9e7-33a0f017875e"
+    "synthetic_l3b_bdi_syk4|2.0|1.0|1.0e-10|9" = "fb0df8df-ff4f-4b5e-9bf4-d448560e0473"
+
+    [settings.time_grid]
+    n = 540
+    t_max = 1.0e6
+    t_min = 0.01

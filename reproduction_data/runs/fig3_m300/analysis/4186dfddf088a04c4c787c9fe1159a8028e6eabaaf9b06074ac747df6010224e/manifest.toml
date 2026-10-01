@@ -1,0 +1,83 @@
+analysis_id = "4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e"
+compatibility = ["runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/spectra/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=1.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/spectra/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=2.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/spectra/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=3.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/spectra/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=4.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/spectra/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=5.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/spectra/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=6.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/spectra/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=7.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/spectra/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=8.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/spectra/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=9.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/spectra/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=10.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/spectra/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=11.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/spectra/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=12.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/spectra/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=13.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/spectra/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=14.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/spectra/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=15.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/spectra/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=16.jld2"]
+compatibility_note = "complete"
+failed = 0
+outputs = ["runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/dynamics/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=1.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/dynamics/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=10.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/dynamics/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=11.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/dynamics/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=12.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/dynamics/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=13.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/dynamics/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=14.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/dynamics/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=15.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/dynamics/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=16.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/dynamics/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=2.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/dynamics/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=3.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/dynamics/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=4.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/dynamics/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=5.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/dynamics/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=6.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/dynamics/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=7.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/dynamics/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=8.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/dynamics/synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=9.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/sigma-sff/4e09eaa144fa53105368d070ed9c460f04c3a5263a439bacfa13bd815caaea3a.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/dsff/4e09eaa144fa53105368d070ed9c460f04c3a5263a439bacfa13bd815caaea3a.jld2", "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/csr/4e09eaa144fa53105368d070ed9c460f04c3a5263a439bacfa13bd815caaea3a.jld2"]
+path_root = "../../../.."
+production_seed_count = 16
+seed_note = "selected_seeds are realization slots; replacements record actual seeds independently for eigen and SVD"
+selected_seeds = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+shard_count = 1
+shard_index = 1
+tasks = ["sigma-sff", "dsff", "csr", "dynamics"]
+
+[[replacements]]
+directory = "runs/fig3_m300/recovery/attempts/seed-19"
+seed = 19
+slot_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|10"
+stage = "eigen"
+[[replacements]]
+directory = "runs/fig3_m300/recovery/attempts/seed-17"
+seed = 17
+slot_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|13"
+stage = "eigen"
+[[replacements]]
+directory = "runs/fig3_m300/recovery/attempts/seed-20"
+seed = 20
+slot_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|16"
+stage = "eigen"
+[[replacements]]
+directory = "runs/fig3_m300/recovery/attempts/seed-18"
+seed = 18
+slot_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|3"
+stage = "eigen"
+
+[settings]
+replacement_export_schema = 1
+tasks = ["csr", "dsff", "dynamics", "sigma-sff"]
+
+    [settings.analysis]
+
+    [settings.dynamics]
+    entropy_eig_tol = 1.0e-12
+
+    [settings.sources.eigen]
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|1" = "9ffc1fca-26e9-47ed-9be8-dbfe0755db71"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|10" = "776811f5-291e-41cc-bb66-be2199865f87"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|11" = "51e6f312-c1d8-43ac-941b-6eb9ba150896"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|12" = "520a22ed-2de1-47a6-ba5f-51c94f36f683"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|13" = "4635a281-cf96-4fee-8e1f-d491a6346a68"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|14" = "41de8fed-bbc7-4659-8a58-9c9f2fd31f80"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|15" = "16fd757a-9140-4c3e-912d-8142201673dd"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|16" = "a95bb896-60ff-4e90-a156-a8e057c5b48f"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|2" = "ecfee8e9-949e-4c3b-98ec-05ec8df961d0"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|3" = "d7224633-9e4c-4dec-a479-2af149d2b691"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|4" = "03042736-f890-49e4-82ad-bd8f4a03a964"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|5" = "84bc6abb-1185-42d4-b362-723fdd4c676c"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|6" = "d1431c3e-d60b-450f-9287-4e8273ab26fa"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|7" = "80dd6564-f826-4228-8a9b-20af3229e54f"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|8" = "dd5fdaf9-0f42-4163-9e1f-dcde9caca158"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|9" = "fc8b9968-c7a1-48c7-b993-370c1069d1b0"
+
+    [settings.sources.svd]
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|1" = "3a84b2cf-90cb-4bdf-b127-cc7a79d3290f"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|10" = "54959c30-05f5-4ef3-9511-5cd61c68961f"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|11" = "d7223055-ac09-42d1-b987-487b74d34bfd"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|12" = "9e782163-6762-476d-b4cb-a99cd00b5944"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|13" = "9d7dc633-3885-4a39-a4c0-f67c3025bc59"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|14" = "2373e8be-15a4-441d-9aac-213c9a3b6b34"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|15" = "e05e37de-8d54-47ca-9cfe-b569c9027530"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|16" = "0a08631a-0b09-4630-a8f6-3ef5662f9abf"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|2" = "39a3a619-b686-485b-90e6-93e7957341dd"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|3" = "dadfdec8-78d4-4c0f-ade5-fc378ae8644f"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|4" = "51783f91-055a-41b8-a100-2274f640f002"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|5" = "15f887a3-35d0-4ff7-8550-6a8f1bf24743"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|6" = "91ee6d93-093e-4f0a-8362-9862baa6e320"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|7" = "bf7115cb-522c-4aa1-a479-6bfcff601ad1"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|8" = "72aa2afc-7419-45cd-a6a0-8c1c53540ac1"
+    "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|9" = "b7c92ad8-145b-4724-b0ff-c6d96c2640bd"
+
+    [settings.time_grid]
+    n = 540
+    t_max = 1.0e6
+    t_min = 0.01

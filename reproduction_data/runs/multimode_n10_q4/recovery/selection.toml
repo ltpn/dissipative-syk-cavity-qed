@@ -1,0 +1,87 @@
+path_root = "../../.."
+
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-34"
+seed = 34
+slot_id = "multimode__dtilde=0.01__seed=13"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-18"
+seed = 18
+slot_id = "multimode__dtilde=0.01__seed=8"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-20"
+seed = 20
+slot_id = "multimode__dtilde=0.1__seed=13"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-19"
+seed = 19
+slot_id = "multimode__dtilde=0.1__seed=7"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-35"
+seed = 35
+slot_id = "multimode__dtilde=1.0__seed=14"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-22"
+seed = 22
+slot_id = "multimode__dtilde=1.0__seed=16"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-36"
+seed = 36
+slot_id = "multimode__dtilde=1.0__seed=2"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-24"
+seed = 24
+slot_id = "multimode__dtilde=1.0__seed=4"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-25"
+seed = 25
+slot_id = "multimode__dtilde=1.0__seed=6"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-41"
+seed = 41
+slot_id = "multimode__dtilde=1.0__seed=7"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-27"
+seed = 27
+slot_id = "multimode__dtilde=10.0__seed=10"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-38"
+seed = 38
+slot_id = "multimode__dtilde=10.0__seed=11"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-29"
+seed = 29
+slot_id = "multimode__dtilde=10.0__seed=12"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-40"
+seed = 40
+slot_id = "multimode__dtilde=10.0__seed=14"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-31"
+seed = 31
+slot_id = "multimode__dtilde=10.0__seed=15"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-32"
+seed = 32
+slot_id = "multimode__dtilde=10.0__seed=5"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-33"
+seed = 33
+slot_id = "multimode__dtilde=10.0__seed=8"
+stage = "eigen"

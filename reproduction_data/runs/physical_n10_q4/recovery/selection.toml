@@ -1,0 +1,72 @@
+path_root = "../../.."
+
+[[replacements]]
+directory = "runs/physical_n10_q4/recovery/attempts/seed-18"
+seed = 18
+slot_id = "physical|0.4|1.0|1.0e-10|2"
+stage = "eigen"
+[[replacements]]
+directory = "runs/physical_n10_q4/recovery/attempts/seed-17"
+seed = 17
+slot_id = "physical|1.0|1.0|1.0e-10|1"
+stage = "eigen"
+[[replacements]]
+directory = "runs/physical_n10_q4/recovery/attempts/seed-31"
+seed = 31
+slot_id = "physical|0.1|1.0|1.0e-10|14"
+stage = "eigen"
+[[replacements]]
+directory = "runs/physical_n10_q4/recovery/attempts/seed-20"
+seed = 20
+slot_id = "physical|0.1|1.0|1.0e-10|3"
+stage = "eigen"
+[[replacements]]
+directory = "runs/physical_n10_q4/recovery/attempts/seed-21"
+seed = 21
+slot_id = "physical|0.4|1.0|1.0e-10|10"
+stage = "eigen"
+[[replacements]]
+directory = "runs/physical_n10_q4/recovery/attempts/seed-32"
+seed = 32
+slot_id = "physical|0.4|1.0|1.0e-10|5"
+stage = "eigen"
+[[replacements]]
+directory = "runs/physical_n10_q4/recovery/attempts/seed-23"
+seed = 23
+slot_id = "physical|0.4|1.0|1.0e-10|8"
+stage = "eigen"
+[[replacements]]
+directory = "runs/physical_n10_q4/recovery/attempts/seed-24"
+seed = 24
+slot_id = "physical|0.4|1.0|1.0e-10|9"
+stage = "eigen"
+[[replacements]]
+directory = "runs/physical_n10_q4/recovery/attempts/seed-25"
+seed = 25
+slot_id = "physical|1.0|1.0|1.0e-10|12"
+stage = "eigen"
+[[replacements]]
+directory = "runs/physical_n10_q4/recovery/attempts/seed-26"
+seed = 26
+slot_id = "physical|2.0|1.0|1.0e-10|11"
+stage = "eigen"
+[[replacements]]
+directory = "runs/physical_n10_q4/recovery/attempts/seed-28"
+seed = 28
+slot_id = "physical|2.0|1.0|1.0e-10|12"
+stage = "eigen"
+[[replacements]]
+directory = "runs/physical_n10_q4/recovery/attempts/seed-27"
+seed = 27
+slot_id = "physical|2.0|1.0|1.0e-10|15"
+stage = "eigen"
+[[replacements]]
+directory = "runs/physical_n10_q4/recovery/attempts/seed-29"
+seed = 29
+slot_id = "physical|2.0|1.0|1.0e-10|6"
+stage = "eigen"
+[[replacements]]
+directory = "runs/physical_n10_q4/recovery/attempts/seed-30"
+seed = 30
+slot_id = "physical|2.0|1.0|1.0e-10|7"
+stage = "eigen"

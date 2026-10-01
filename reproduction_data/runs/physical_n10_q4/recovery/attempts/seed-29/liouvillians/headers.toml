@@ -1,0 +1,12 @@
+schema_version = 1
+
+[headers."physical__eta=2.0__gamma=1.0__tol=1.0e-10__seed=29.jld2"]
+artifact_id = "0b20cdcc-73f2-463b-bee3-0d66bf91e70f"
+code_revision = "unknown"
+dimension = 44100
+generation_id = "0937a601b1b68bb44adeb0ebee702a578407ea7fc9c67bb8635049fe495ab83f"
+physics_id = "f1cff192af54fb4918c6dc9c5bd13ce69d8828aeb04a69e4ac260b5a0724796e"
+point_id = "physical|2.0|1.0|1.0e-10|29"
+schema_version = 1
+source_id = ""
+stage = "generate"

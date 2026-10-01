@@ -1,0 +1,12 @@
+schema_version = 1
+
+[headers."synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=20.jld2"]
+artifact_id = "a2cf3321-944e-4f58-88f2-522e87fd3f85"
+code_revision = "unknown"
+dimension = 44100
+generation_id = "644d457129e74a73c50442d79035a4946f003c432f9dd13132a9863947f5ba94"
+physics_id = "ff500219049952f89e21eef16b0f89146ef23ea2e0060bdbb51872d68119b4b4"
+point_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|20"
+schema_version = 1
+source_id = ""
+stage = "generate"

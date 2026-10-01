@@ -1,0 +1,191 @@
+generation_id = "f198d96ddf6a7fa210d2962e5a5fcece6ffbe2f0abfcf1c981ce2f255c7d867c"
+path_root = "../../.."
+physics_id = "ff500219049952f89e21eef16b0f89146ef23ea2e0060bdbb51872d68119b4b4"
+schema_version = 1
+stage = "generate"
+
+[[points]]
+config = "synthetic_l3b_bdi_syk4_fig3_m300"
+eta = 2.0
+filename = "synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=1.jld2"
+gamma = 1.0
+model = "physical"
+point_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|1"
+seed = 1
+svd_tol = 1.0e-10
+[[points]]
+config = "synthetic_l3b_bdi_syk4_fig3_m300"
+eta = 2.0
+filename = "synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=10.jld2"
+gamma = 1.0
+model = "physical"
+point_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|10"
+seed = 10
+svd_tol = 1.0e-10
+[[points]]
+config = "synthetic_l3b_bdi_syk4_fig3_m300"
+eta = 2.0
+filename = "synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=11.jld2"
+gamma = 1.0
+model = "physical"
+point_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|11"
+seed = 11
+svd_tol = 1.0e-10
+[[points]]
+config = "synthetic_l3b_bdi_syk4_fig3_m300"
+eta = 2.0
+filename = "synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=12.jld2"
+gamma = 1.0
+model = "physical"
+point_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|12"
+seed = 12
+svd_tol = 1.0e-10
+[[points]]
+config = "synthetic_l3b_bdi_syk4_fig3_m300"
+eta = 2.0
+filename = "synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=13.jld2"
+gamma = 1.0
+model = "physical"
+point_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|13"
+seed = 13
+svd_tol = 1.0e-10
+[[points]]
+config = "synthetic_l3b_bdi_syk4_fig3_m300"
+eta = 2.0
+filename = "synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=14.jld2"
+gamma = 1.0
+model = "physical"
+point_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|14"
+seed = 14
+svd_tol = 1.0e-10
+[[points]]
+config = "synthetic_l3b_bdi_syk4_fig3_m300"
+eta = 2.0
+filename = "synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=15.jld2"
+gamma = 1.0
+model = "physical"
+point_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|15"
+seed = 15
+svd_tol = 1.0e-10
+[[points]]
+config = "synthetic_l3b_bdi_syk4_fig3_m300"
+eta = 2.0
+filename = "synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=16.jld2"
+gamma = 1.0
+model = "physical"
+point_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|16"
+seed = 16
+svd_tol = 1.0e-10
+[[points]]
+config = "synthetic_l3b_bdi_syk4_fig3_m300"
+eta = 2.0
+filename = "synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=2.jld2"
+gamma = 1.0
+model = "physical"
+point_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|2"
+seed = 2
+svd_tol = 1.0e-10
+[[points]]
+config = "synthetic_l3b_bdi_syk4_fig3_m300"
+eta = 2.0
+filename = "synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=3.jld2"
+gamma = 1.0
+model = "physical"
+point_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|3"
+seed = 3
+svd_tol = 1.0e-10
+[[points]]
+config = "synthetic_l3b_bdi_syk4_fig3_m300"
+eta = 2.0
+filename = "synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=4.jld2"
+gamma = 1.0
+model = "physical"
+point_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|4"
+seed = 4
+svd_tol = 1.0e-10
+[[points]]
+config = "synthetic_l3b_bdi_syk4_fig3_m300"
+eta = 2.0
+filename = "synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=5.jld2"
+gamma = 1.0
+model = "physical"
+point_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|5"
+seed = 5
+svd_tol = 1.0e-10
+[[points]]
+config = "synthetic_l3b_bdi_syk4_fig3_m300"
+eta = 2.0
+filename = "synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=6.jld2"
+gamma = 1.0
+model = "physical"
+point_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|6"
+seed = 6
+svd_tol = 1.0e-10
+[[points]]
+config = "synthetic_l3b_bdi_syk4_fig3_m300"
+eta = 2.0
+filename = "synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=7.jld2"
+gamma = 1.0
+model = "physical"
+point_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|7"
+seed = 7
+svd_tol = 1.0e-10
+[[points]]
+config = "synthetic_l3b_bdi_syk4_fig3_m300"
+eta = 2.0
+filename = "synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=8.jld2"
+gamma = 1.0
+model = "physical"
+point_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|8"
+seed = 8
+svd_tol = 1.0e-10
+[[points]]
+config = "synthetic_l3b_bdi_syk4_fig3_m300"
+eta = 2.0
+filename = "synthetic_l3b_bdi_syk4_fig3_m300__eta=2.0__gamma=1.0__tol=1.0e-10__seed=9.jld2"
+gamma = 1.0
+model = "physical"
+point_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|9"
+seed = 9
+svd_tol = 1.0e-10
+
+[resolved_config]
+model = "physical"
+
+    [resolved_config.dynamics]
+    entropy_eig_tol = 1.0e-12
+
+    [resolved_config.execution]
+    blas_threads = 64
+    parallel_tasks = 1
+
+    [resolved_config.grid]
+    baseline_svd_tol = 1.0e-10
+    configs = ["synthetic_l3b_bdi_syk4_fig3_m300"]
+    etas = [2.0]
+    gammas = [1.0]
+    seed_count = 16
+
+    [resolved_config.numerics]
+    J = 1.0
+    box_length = 15.0
+    calibration_jld2 = "data/syk4_reference/m300/calibration/figure3_syk4_dtilde0p01_m300_n10_q4_r16.jld2"
+    cavity_loss_rate_over_J = 0.2
+    correlation_length = 1.0
+    disorder_strength = 1.0
+    filling = 4
+    kappa_over_2pi_mhz = 0.2
+    lambda_c_micron = 0.671
+    n_grid = 160
+    n_orb = 10
+
+        [resolved_config.numerics.time_grid]
+        n = 540
+        t_max = 1.0e6
+        t_min = 0.01
+
+    [resolved_config.output]
+    data_subdir = "syk4_reference/m300/norb_10_q4_r16"
+
+    [resolved_config.seeds]
+    l3b_offset = 55000

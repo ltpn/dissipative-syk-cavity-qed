@@ -1,0 +1,50 @@
+alpha_tilde = 1.0
+cache_dir = "derived/ai_dagger_cache"
+chi = 7.155686024855862
+chi_bootstrap_lower = 6.596050807133281
+chi_bootstrap_median = 7.186650842530139
+chi_bootstrap_requested = 500
+chi_bootstrap_successful = 500
+chi_bootstrap_upper = 8.980567091611569
+heisenberg_threshold = 0.95
+late_plateau_95_lower = 0.9688842912119529
+late_plateau_95_upper = 1.0204140646934028
+late_plateau_consistent_95 = true
+late_plateau_mean = 0.9960842233431202
+matrix_sizes = [128, 256, 512]
+n_bootstrap = 500
+path_root = "../.."
+reference_jld2 = "data/ai_dagger/gaussian_ai_dagger_dsff_reference.jld2"
+rng_seed = 20260804
+seed_counts = [512, 256, 128]
+smoke = false
+theta = 0.7853981633974483
+
+[finite_sizes.128]
+cache_path = "derived/ai_dagger_cache/finite_size/finite__N=128__seeds=512.jld2"
+effective_density = 34.5670090520661
+plateau = 54.29773084727136
+seed_count = 512
+spacing = 0.04269763892199462
+spacing_times_sqrt_effective_density = 0.2510352807309629
+
+[finite_sizes.256]
+cache_path = "derived/ai_dagger_cache/finite_size/finite__N=256__seeds=256.jld2"
+effective_density = 69.74750247672893
+plateau = 109.55912069356376
+seed_count = 256
+spacing = 0.030020571066283613
+spacing_times_sqrt_effective_density = 0.2507167098017494
+
+[finite_sizes.512]
+cache_path = "derived/ai_dagger_cache/finite_size/finite__N=512__seeds=128.jld2"
+effective_density = 140.15374051645037
+plateau = 220.1529807898053
+seed_count = 128
+spacing = 0.02113843834138679
+spacing_times_sqrt_effective_density = 0.2502506683236475
+
+[weighted_spacing_grid]
+max = 100.0
+min = 0.001
+points = 500

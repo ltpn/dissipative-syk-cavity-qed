@@ -1,0 +1,90 @@
+K_liouville = [44100, 44100, 44100, 44100]
+analysis_window = [0.05, 0.95]
+authoring_canvas_size_points = [601.0, 283.0]
+box_length = 15.0
+cache_paths = ["runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/multimode/multimode_centered__norb=10__f=4__ngrid=160__M=300__deltacd=1__dtilde=0p01.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/multimode/multimode_centered__norb=10__f=4__ngrid=160__M=300__deltacd=1__dtilde=0p1.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/multimode/multimode_centered__norb=10__f=4__ngrid=160__M=300__deltacd=1__dtilde=1.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/multimode/multimode_centered__norb=10__f=4__ngrid=160__M=300__deltacd=1__dtilde=10.jld2"]
+control_curve_color_rgb = [0.05, 0.34, 0.2]
+curve_colormap_rgb = [[0.9968296, 0.7724726, 0.5373508], [0.96661, 0.436111, 0.3596695], [0.7458284, 0.2254362, 0.4656836], [0.4555515, 0.126805, 0.507373]]
+delta_cd_over_2pi_mhz = 1.0
+delta_da_over_2pi_mhz = 3000.0
+delta_tildes = [0.01, 0.1, 1.0, 10.0]
+disorder_strength = 1.0
+drive_wavevector = 0.0
+dynamics_n_seeds_used = [16, 16, 16, 16]
+dynamics_time_range = [0.010000000000000004, 999999.9999999995]
+energy_scale = 1.0
+epsilon_zero = 1.0e-8
+filling = 4
+final_figure_size_points_at_columnwidth = [247.2939925, 117.5859965]
+gamma_over_2pi_mhz = 5.9
+hilbert_dim = 210
+hu_degree = 5
+hu_n_bins = 40
+intended_latex_scale = 0.5
+kappa_over_2pi_mhz = 0.2
+legend_label_size_points = 7.2
+mode_cutoff = 300
+n_grid = 160
+n_orb = 10
+n_seeds = 16
+n_seeds_used = [16, 16, 16, 16]
+outputs = ["figures/figure_3_multimode_unfolded_sigma_sff_and_occupation.pdf", "figures/figure_3_multimode_unfolded_sigma_sff_and_occupation.png"]
+path_root = ".."
+r_HD_max = 25.653016677549687
+r_HD_median = 3.6227433519769208
+r_HD_min = 0.06039789066959366
+rate_scale = 1.0
+source_figure_size_points = [494.587985, 235.171993]
+speckle_grains_per_side = 17.0
+top_sgolay_degree = 3
+top_sgolay_window = 11
+x_lower_clip = 0.0031622776601683794
+y_lower_clip = 0.03162277660168379
+zeta = 1.0
+
+[finite_size_inset]
+delta_tilde = 0.01
+palette_rgb = [[0.72, 0.72, 0.72], [0.46, 0.46, 0.46], [0.2, 0.2, 0.2]]
+
+    [[finite_size_inset.comparison_caches]]
+    n_orb = 6
+    path = "runs/multimode_n6_f3/analysis/0763f1bb1c54e6392fc800bc365a5769a5ba18c07ac36f3d3121607452e4092d/multimode/multimode_centered__norb=6__f=3__ngrid=160__M=300__deltacd=1__dtilde=0p01.jld2"
+    [[finite_size_inset.comparison_caches]]
+    n_orb = 8
+    path = "runs/multimode_n8_f4/analysis/db9f5455af3ce5b91312ce81b0813de83964e15923fb4eac38f7650896ac844f/multimode/multimode_centered__norb=8__f=4__ngrid=160__M=300__deltacd=1__dtilde=0p01.jld2"
+
+[folded_goe]
+
+[sff_bootstrap]
+n_boot = 500
+quantiles = [0.16, 0.84]
+rng_seed = 20260804
+
+[syk4_diss_reference]
+H_span_relative_error = 2.220446049250313e-16
+LD_norm_relative_error = 2.220446049250313e-16
+bootstrap_rng_seed = 20261004
+calibration = "data/syk4_reference/m300/calibration/figure3_syk4_dtilde0p01_m300_n10_q4_r16.jld2"
+config = "runs/fig3_m300/config.toml"
+config_name = "synthetic_l3b_bdi_syk4_fig3_m300"
+eta = 2.0
+gamma = 1.0
+n_cavity_jumps = 1
+n_random_jumps = 300
+n_seeds_requested = 16
+n_seeds_used = 16
+panels = ["sigma_sff", "occupation"]
+physical_H_span_mean = 0.019850755604374364
+physical_LD_norm_mean = 17.103638306046882
+seed_range = [1, 16]
+spectra_dir = "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e/spectra"
+svd_tol = 1.0e-10
+synthetic_H_span_mean = 0.019850755604374368
+synthetic_LD_norm_mean = 17.10363830604688
+target_delta_tilde = 0.01
+validation = "derived/figure3_syk4_reference_validation.toml"
+
+[tau_grid]
+max = 10.0
+min = 0.001
+n = 400

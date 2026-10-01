@@ -1,0 +1,78 @@
+[system]
+n_orb = 8
+filling = 4
+beta = 0.0
+seed_first = 1
+seed_last = 64
+
+[time_grid]
+t_min = 1e-3
+t_max = 1e6
+n_positive = 600
+
+[bootstrap]
+n_resamples = 500
+lower_quantile = 0.16
+upper_quantile = 0.84
+rng_seed = 2026081801
+
+[figure1]
+etas = [0.1, 0.4, 1.0, 2.0]
+gamma_eff = 1.0
+svd_tol = 1e-10
+n_grid = 160
+box_length = 15.0
+correlation_length = 1.0
+disorder_strength = 1.0
+J = 1.0
+lambda_c_micron = 0.671
+kappa_over_2pi_mhz = 0.2
+delta_cd_over_2pi_mhz = 1.0
+
+[figure1_control]
+calibration_store_relative = "syk4/n8/calibration.jld2"
+eta = 2.0
+gamma_eff = 1.0
+n_random_jumps = 60
+n_cavity_jumps = 1
+seed_offset = 55000
+
+[figure3]
+delta_tildes = [0.01, 0.1, 1.0, 10.0]
+n_grid = 160
+box_length = 15.0
+zeta = 1.0
+mode_cutoff = 300
+speckle_grains_per_side = 17.0
+disorder_strength = 1.0
+drive_wavevector = 0.0
+energy_scale = 1.0
+kappa_over_2pi_mhz = 0.2
+delta_cd_over_2pi_mhz = 1.0   # canonical multimode value (kappa/Delta = 0.2)
+gamma_over_2pi_mhz = 5.9
+delta_da_over_2pi_mhz = 3000.0
+rate_scale = 1.0
+
+[figure3_control]
+calibration_relative = "calibration/figure3_diss_syk_n8_q4_m300.jld2"
+baseline_calibration_store_relative = "syk4/n8/calibration.jld2"
+target_delta_tilde = 0.01
+eta = 2.0
+gamma_eff = 1.0
+n_random_jumps = 300
+n_cavity_jumps = 1
+seed_offset = 55000
+cavity_loss_rate_over_J = 0.2
+
+[validation]
+h_residual_max = 1e-10
+l_residual_max = 1e-9
+trace_preservation_residual_max = 1e-10
+f0_error_max = 1e-10
+curve_max_imaginary = 1e-8
+curve_probability_tolerance = 1e-8
+reconstruction_residual_max = 1e-12
+calibration_relative_tolerance = 0.02
+
+[output]
+store_subdir = "cgs_survival"

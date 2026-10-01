@@ -1,0 +1,22 @@
+path_root = "../../.."
+
+[[replacements]]
+directory = "runs/fig3_m300/recovery/attempts/seed-19"
+seed = 19
+slot_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|10"
+stage = "eigen"
+[[replacements]]
+directory = "runs/fig3_m300/recovery/attempts/seed-17"
+seed = 17
+slot_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|13"
+stage = "eigen"
+[[replacements]]
+directory = "runs/fig3_m300/recovery/attempts/seed-20"
+seed = 20
+slot_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|16"
+stage = "eigen"
+[[replacements]]
+directory = "runs/fig3_m300/recovery/attempts/seed-18"
+seed = 18
+slot_id = "synthetic_l3b_bdi_syk4_fig3_m300|2.0|1.0|1.0e-10|3"
+stage = "eigen"

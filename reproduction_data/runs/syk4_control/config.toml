@@ -1,0 +1,38 @@
+path_root = "../.."
+
+[dynamics]
+entropy_eig_tol = 1.0e-12
+
+[execution]
+blas_threads = 64
+parallel_tasks = 1
+
+[grid]
+baseline_svd_tol = 1.0e-10
+configs = ["synthetic_l3b_bdi_syk4"]
+etas = [2.0]
+gammas = [1.0]
+seed_count = 16
+
+[numerics]
+J = 1.0
+box_length = 15.0
+calibration_jld2 = "data/syk4/n10_q4_r16/calibration.jld2"
+correlation_length = 1.0
+disorder_strength = 1.0
+filling = 4
+kappa_over_2pi_mhz = 0.2
+lambda_c_micron = 0.671
+n_grid = 160
+n_orb = 10
+
+    [numerics.time_grid]
+    n = 540
+    t_max = 1.0e6
+    t_min = 0.01
+
+[output]
+data_subdir = "syk4/n10_q4_r16"
+
+[seeds]
+l3b_offset = 55000

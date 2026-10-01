@@ -1,0 +1,15 @@
+schema_version = 1
+dataset = "canonical_n10_q4_r16"
+n_orb = 10
+filling = 4
+n_seeds = 16
+
+[selected_analysis]
+fig3_m300 = "runs/fig3_m300/analysis/4186dfddf088a04c4c787c9fe1159a8028e6eabaaf9b06074ac747df6010224e"
+multimode_n10_q4 = "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca"
+multimode_n6_f3 = "runs/multimode_n6_f3/analysis/0763f1bb1c54e6392fc800bc365a5769a5ba18c07ac36f3d3121607452e4092d"
+multimode_n8_f4 = "runs/multimode_n8_f4/analysis/db9f5455af3ce5b91312ce81b0813de83964e15923fb4eac38f7650896ac844f"
+physical_n10_q4 = "runs/physical_n10_q4/analysis/f09a308d6bacee5dd57871a07ae8bce15eebbafd31b3b66592ba4251e9121019"
+physical_n6 = "runs/physical_n6/analysis/b03e64f75bf011d206bba3b0ff116cf60b00297238cf1709758535f2a0aa2931"
+physical_n8 = "runs/physical_n8/analysis/49a81c5faf0d22be2e6bd6183d33005ac9951d4c4b447fe0df143fe3431eda9b"
+syk4_control = "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a"

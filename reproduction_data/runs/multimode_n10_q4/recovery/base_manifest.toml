@@ -1,0 +1,425 @@
+generation_id = "b2faee126535d2b8fe69f169691404fdb66c3da59a6c6ac9b24779f0c1567b6f"
+path_root = "../../.."
+physics_id = "9d70ad3ffc36905b80b7c4f044f4cc97c2fc14b3e9b093b09eb8f662aad3fba7"
+schema_version = 1
+stage = "generate"
+
+[[points]]
+delta_tilde = 0.01
+filename = "multimode__dtilde=0.01__seed=1.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.01__seed=1"
+seed = 1
+[[points]]
+delta_tilde = 0.01
+filename = "multimode__dtilde=0.01__seed=10.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.01__seed=10"
+seed = 10
+[[points]]
+delta_tilde = 0.01
+filename = "multimode__dtilde=0.01__seed=11.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.01__seed=11"
+seed = 11
+[[points]]
+delta_tilde = 0.01
+filename = "multimode__dtilde=0.01__seed=12.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.01__seed=12"
+seed = 12
+[[points]]
+delta_tilde = 0.01
+filename = "multimode__dtilde=0.01__seed=13.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.01__seed=13"
+seed = 13
+[[points]]
+delta_tilde = 0.01
+filename = "multimode__dtilde=0.01__seed=14.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.01__seed=14"
+seed = 14
+[[points]]
+delta_tilde = 0.01
+filename = "multimode__dtilde=0.01__seed=15.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.01__seed=15"
+seed = 15
+[[points]]
+delta_tilde = 0.01
+filename = "multimode__dtilde=0.01__seed=16.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.01__seed=16"
+seed = 16
+[[points]]
+delta_tilde = 0.01
+filename = "multimode__dtilde=0.01__seed=2.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.01__seed=2"
+seed = 2
+[[points]]
+delta_tilde = 0.01
+filename = "multimode__dtilde=0.01__seed=3.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.01__seed=3"
+seed = 3
+[[points]]
+delta_tilde = 0.01
+filename = "multimode__dtilde=0.01__seed=4.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.01__seed=4"
+seed = 4
+[[points]]
+delta_tilde = 0.01
+filename = "multimode__dtilde=0.01__seed=5.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.01__seed=5"
+seed = 5
+[[points]]
+delta_tilde = 0.01
+filename = "multimode__dtilde=0.01__seed=6.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.01__seed=6"
+seed = 6
+[[points]]
+delta_tilde = 0.01
+filename = "multimode__dtilde=0.01__seed=7.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.01__seed=7"
+seed = 7
+[[points]]
+delta_tilde = 0.01
+filename = "multimode__dtilde=0.01__seed=8.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.01__seed=8"
+seed = 8
+[[points]]
+delta_tilde = 0.01
+filename = "multimode__dtilde=0.01__seed=9.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.01__seed=9"
+seed = 9
+[[points]]
+delta_tilde = 0.1
+filename = "multimode__dtilde=0.1__seed=1.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.1__seed=1"
+seed = 1
+[[points]]
+delta_tilde = 0.1
+filename = "multimode__dtilde=0.1__seed=10.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.1__seed=10"
+seed = 10
+[[points]]
+delta_tilde = 0.1
+filename = "multimode__dtilde=0.1__seed=11.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.1__seed=11"
+seed = 11
+[[points]]
+delta_tilde = 0.1
+filename = "multimode__dtilde=0.1__seed=12.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.1__seed=12"
+seed = 12
+[[points]]
+delta_tilde = 0.1
+filename = "multimode__dtilde=0.1__seed=13.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.1__seed=13"
+seed = 13
+[[points]]
+delta_tilde = 0.1
+filename = "multimode__dtilde=0.1__seed=14.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.1__seed=14"
+seed = 14
+[[points]]
+delta_tilde = 0.1
+filename = "multimode__dtilde=0.1__seed=15.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.1__seed=15"
+seed = 15
+[[points]]
+delta_tilde = 0.1
+filename = "multimode__dtilde=0.1__seed=16.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.1__seed=16"
+seed = 16
+[[points]]
+delta_tilde = 0.1
+filename = "multimode__dtilde=0.1__seed=2.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.1__seed=2"
+seed = 2
+[[points]]
+delta_tilde = 0.1
+filename = "multimode__dtilde=0.1__seed=3.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.1__seed=3"
+seed = 3
+[[points]]
+delta_tilde = 0.1
+filename = "multimode__dtilde=0.1__seed=4.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.1__seed=4"
+seed = 4
+[[points]]
+delta_tilde = 0.1
+filename = "multimode__dtilde=0.1__seed=5.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.1__seed=5"
+seed = 5
+[[points]]
+delta_tilde = 0.1
+filename = "multimode__dtilde=0.1__seed=6.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.1__seed=6"
+seed = 6
+[[points]]
+delta_tilde = 0.1
+filename = "multimode__dtilde=0.1__seed=7.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.1__seed=7"
+seed = 7
+[[points]]
+delta_tilde = 0.1
+filename = "multimode__dtilde=0.1__seed=8.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.1__seed=8"
+seed = 8
+[[points]]
+delta_tilde = 0.1
+filename = "multimode__dtilde=0.1__seed=9.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=0.1__seed=9"
+seed = 9
+[[points]]
+delta_tilde = 1.0
+filename = "multimode__dtilde=1.0__seed=1.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=1.0__seed=1"
+seed = 1
+[[points]]
+delta_tilde = 1.0
+filename = "multimode__dtilde=1.0__seed=10.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=1.0__seed=10"
+seed = 10
+[[points]]
+delta_tilde = 1.0
+filename = "multimode__dtilde=1.0__seed=11.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=1.0__seed=11"
+seed = 11
+[[points]]
+delta_tilde = 1.0
+filename = "multimode__dtilde=1.0__seed=12.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=1.0__seed=12"
+seed = 12
+[[points]]
+delta_tilde = 1.0
+filename = "multimode__dtilde=1.0__seed=13.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=1.0__seed=13"
+seed = 13
+[[points]]
+delta_tilde = 1.0
+filename = "multimode__dtilde=1.0__seed=14.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=1.0__seed=14"
+seed = 14
+[[points]]
+delta_tilde = 1.0
+filename = "multimode__dtilde=1.0__seed=15.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=1.0__seed=15"
+seed = 15
+[[points]]
+delta_tilde = 1.0
+filename = "multimode__dtilde=1.0__seed=16.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=1.0__seed=16"
+seed = 16
+[[points]]
+delta_tilde = 1.0
+filename = "multimode__dtilde=1.0__seed=2.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=1.0__seed=2"
+seed = 2
+[[points]]
+delta_tilde = 1.0
+filename = "multimode__dtilde=1.0__seed=3.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=1.0__seed=3"
+seed = 3
+[[points]]
+delta_tilde = 1.0
+filename = "multimode__dtilde=1.0__seed=4.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=1.0__seed=4"
+seed = 4
+[[points]]
+delta_tilde = 1.0
+filename = "multimode__dtilde=1.0__seed=5.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=1.0__seed=5"
+seed = 5
+[[points]]
+delta_tilde = 1.0
+filename = "multimode__dtilde=1.0__seed=6.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=1.0__seed=6"
+seed = 6
+[[points]]
+delta_tilde = 1.0
+filename = "multimode__dtilde=1.0__seed=7.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=1.0__seed=7"
+seed = 7
+[[points]]
+delta_tilde = 1.0
+filename = "multimode__dtilde=1.0__seed=8.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=1.0__seed=8"
+seed = 8
+[[points]]
+delta_tilde = 1.0
+filename = "multimode__dtilde=1.0__seed=9.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=1.0__seed=9"
+seed = 9
+[[points]]
+delta_tilde = 10.0
+filename = "multimode__dtilde=10.0__seed=1.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=10.0__seed=1"
+seed = 1
+[[points]]
+delta_tilde = 10.0
+filename = "multimode__dtilde=10.0__seed=10.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=10.0__seed=10"
+seed = 10
+[[points]]
+delta_tilde = 10.0
+filename = "multimode__dtilde=10.0__seed=11.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=10.0__seed=11"
+seed = 11
+[[points]]
+delta_tilde = 10.0
+filename = "multimode__dtilde=10.0__seed=12.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=10.0__seed=12"
+seed = 12
+[[points]]
+delta_tilde = 10.0
+filename = "multimode__dtilde=10.0__seed=13.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=10.0__seed=13"
+seed = 13
+[[points]]
+delta_tilde = 10.0
+filename = "multimode__dtilde=10.0__seed=14.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=10.0__seed=14"
+seed = 14
+[[points]]
+delta_tilde = 10.0
+filename = "multimode__dtilde=10.0__seed=15.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=10.0__seed=15"
+seed = 15
+[[points]]
+delta_tilde = 10.0
+filename = "multimode__dtilde=10.0__seed=16.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=10.0__seed=16"
+seed = 16
+[[points]]
+delta_tilde = 10.0
+filename = "multimode__dtilde=10.0__seed=2.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=10.0__seed=2"
+seed = 2
+[[points]]
+delta_tilde = 10.0
+filename = "multimode__dtilde=10.0__seed=3.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=10.0__seed=3"
+seed = 3
+[[points]]
+delta_tilde = 10.0
+filename = "multimode__dtilde=10.0__seed=4.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=10.0__seed=4"
+seed = 4
+[[points]]
+delta_tilde = 10.0
+filename = "multimode__dtilde=10.0__seed=5.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=10.0__seed=5"
+seed = 5
+[[points]]
+delta_tilde = 10.0
+filename = "multimode__dtilde=10.0__seed=6.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=10.0__seed=6"
+seed = 6
+[[points]]
+delta_tilde = 10.0
+filename = "multimode__dtilde=10.0__seed=7.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=10.0__seed=7"
+seed = 7
+[[points]]
+delta_tilde = 10.0
+filename = "multimode__dtilde=10.0__seed=8.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=10.0__seed=8"
+seed = 8
+[[points]]
+delta_tilde = 10.0
+filename = "multimode__dtilde=10.0__seed=9.jld2"
+model = "multimode"
+point_id = "multimode__dtilde=10.0__seed=9"
+seed = 9
+
+[resolved_config]
+model = "multimode"
+
+    [resolved_config.dynamics]
+    entropy_eig_tol = 1.0e-12
+
+    [resolved_config.grid]
+    delta_tildes = [0.01, 0.1, 1.0, 10.0]
+    seed_count = 16
+
+    [resolved_config.loss]
+    delta_cd_over_2pi_mhz = 1.0
+    delta_da_over_2pi_mhz = 3000.0
+    gamma_over_2pi_mhz = 5.9
+    kappa_over_2pi_mhz = 0.2
+    rate_scale = 1.0
+
+    [resolved_config.numerics]
+    box_length = 15.0
+    disorder_strength = 1.0
+    drive_wavevector = 0.0
+    energy_scale = 1.0
+    filling = 4
+    mode_cutoff = 300
+    n_grid = 160
+    n_orb = 10
+    speckle_grains_per_side = 17.0
+    weight_type = "speckle"
+    zeta = 1.0
+
+        [resolved_config.numerics.time_grid]
+        n = 540
+        t_max = 1.0e6
+        t_min = 0.01

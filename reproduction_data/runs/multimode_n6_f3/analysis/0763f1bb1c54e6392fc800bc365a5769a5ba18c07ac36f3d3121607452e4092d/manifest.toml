@@ -1,0 +1,62 @@
+analysis_id = "0763f1bb1c54e6392fc800bc365a5769a5ba18c07ac36f3d3121607452e4092d"
+compatibility = ["runs/multimode_n6_f3/analysis/0763f1bb1c54e6392fc800bc365a5769a5ba18c07ac36f3d3121607452e4092d/multimode/multimode_centered__norb=6__f=3__ngrid=160__M=300__deltacd=1__dtilde=0p01.jld2"]
+compatibility_note = "complete"
+failed = 0
+outputs = ["runs/multimode_n6_f3/analysis/0763f1bb1c54e6392fc800bc365a5769a5ba18c07ac36f3d3121607452e4092d/dynamics/multimode__dtilde=0.01__seed=1.jld2", "runs/multimode_n6_f3/analysis/0763f1bb1c54e6392fc800bc365a5769a5ba18c07ac36f3d3121607452e4092d/dynamics/multimode__dtilde=0.01__seed=10.jld2", "runs/multimode_n6_f3/analysis/0763f1bb1c54e6392fc800bc365a5769a5ba18c07ac36f3d3121607452e4092d/dynamics/multimode__dtilde=0.01__seed=11.jld2", "runs/multimode_n6_f3/analysis/0763f1bb1c54e6392fc800bc365a5769a5ba18c07ac36f3d3121607452e4092d/dynamics/multimode__dtilde=0.01__seed=12.jld2", "runs/multimode_n6_f3/analysis/0763f1bb1c54e6392fc800bc365a5769a5ba18c07ac36f3d3121607452e4092d/dynamics/multimode__dtilde=0.01__seed=13.jld2", "runs/multimode_n6_f3/analysis/0763f1bb1c54e6392fc800bc365a5769a5ba18c07ac36f3d3121607452e4092d/dynamics/multimode__dtilde=0.01__seed=14.jld2", "runs/multimode_n6_f3/analysis/0763f1bb1c54e6392fc800bc365a5769a5ba18c07ac36f3d3121607452e4092d/dynamics/multimode__dtilde=0.01__seed=15.jld2", "runs/multimode_n6_f3/analysis/0763f1bb1c54e6392fc800bc365a5769a5ba18c07ac36f3d3121607452e4092d/dynamics/multimode__dtilde=0.01__seed=16.jld2", "runs/multimode_n6_f3/analysis/0763f1bb1c54e6392fc800bc365a5769a5ba18c07ac36f3d3121607452e4092d/dynamics/multimode__dtilde=0.01__seed=2.jld2", "runs/multimode_n6_f3/analysis/0763f1bb1c54e6392fc800bc365a5769a5ba18c07ac36f3d3121607452e4092d/dynamics/multimode__dtilde=0.01__seed=3.jld2", "runs/multimode_n6_f3/analysis/0763f1bb1c54e6392fc800bc365a5769a5ba18c07ac36f3d3121607452e4092d/dynamics/multimode__dtilde=0.01__seed=4.jld2", "runs/multimode_n6_f3/analysis/0763f1bb1c54e6392fc800bc365a5769a5ba18c07ac36f3d3121607452e4092d/dynamics/multimode__dtilde=0.01__seed=5.jld2", "runs/multimode_n6_f3/analysis/0763f1bb1c54e6392fc800bc365a5769a5ba18c07ac36f3d3121607452e4092d/dynamics/multimode__dtilde=0.01__seed=6.jld2", "runs/multimode_n6_f3/analysis/0763f1bb1c54e6392fc800bc365a5769a5ba18c07ac36f3d3121607452e4092d/dynamics/multimode__dtilde=0.01__seed=7.jld2", "runs/multimode_n6_f3/analysis/0763f1bb1c54e6392fc800bc365a5769a5ba18c07ac36f3d3121607452e4092d/dynamics/multimode__dtilde=0.01__seed=8.jld2", "runs/multimode_n6_f3/analysis/0763f1bb1c54e6392fc800bc365a5769a5ba18c07ac36f3d3121607452e4092d/dynamics/multimode__dtilde=0.01__seed=9.jld2", "runs/multimode_n6_f3/analysis/0763f1bb1c54e6392fc800bc365a5769a5ba18c07ac36f3d3121607452e4092d/sigma-sff/3e1059d660fd3fab0f6ee4896e7fb5412eff7c3b9639960b249c12193a09bf0f.jld2", "runs/multimode_n6_f3/analysis/0763f1bb1c54e6392fc800bc365a5769a5ba18c07ac36f3d3121607452e4092d/csr/3e1059d660fd3fab0f6ee4896e7fb5412eff7c3b9639960b249c12193a09bf0f.jld2"]
+path_root = "../../../.."
+production_seed_count = 16
+replacements = []
+seed_note = "selected_seeds are realization slots; replacements record actual seeds independently for eigen and SVD"
+selected_seeds = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+shard_count = 1
+shard_index = 1
+tasks = ["sigma-sff", "csr", "dynamics"]
+
+[settings]
+tasks = ["csr", "dynamics", "sigma-sff"]
+
+    [settings.analysis]
+
+    [settings.dynamics]
+    entropy_eig_tol = 1.0e-12
+
+    [settings.sources.eigen]
+    "multimode__dtilde=0.01__seed=1" = "1701866a-4382-4ce4-95bc-9be46ac5574e"
+    "multimode__dtilde=0.01__seed=10" = "cb6498c5-77e7-43c2-820f-3b28e1aada06"
+    "multimode__dtilde=0.01__seed=11" = "76197814-3f85-474e-a4fd-e2814d10c146"
+    "multimode__dtilde=0.01__seed=12" = "e9ea8601-8edf-4d51-89e4-af5917eeddbd"
+    "multimode__dtilde=0.01__seed=13" = "2e821219-ced0-4105-99be-decdd55a3f86"
+    "multimode__dtilde=0.01__seed=14" = "39fb6a3b-f9ab-4f3d-b3b3-f3fce7c9f15b"
+    "multimode__dtilde=0.01__seed=15" = "6f997860-ed59-48e5-9182-7a984c0915b1"
+    "multimode__dtilde=0.01__seed=16" = "50176dec-8ed0-44e7-a767-0b502dd22429"
+    "multimode__dtilde=0.01__seed=2" = "ef8df0a6-e48a-4c5d-9702-61f10b9bc6d6"
+    "multimode__dtilde=0.01__seed=3" = "5ba663e4-f53b-4cb5-bb74-d103508239d4"
+    "multimode__dtilde=0.01__seed=4" = "925a4289-1f2f-4a40-9d89-31e41e133000"
+    "multimode__dtilde=0.01__seed=5" = "d111c2eb-0a33-471a-b775-57a62e068982"
+    "multimode__dtilde=0.01__seed=6" = "b56ed77a-8671-4a5e-aab4-447106dee7ed"
+    "multimode__dtilde=0.01__seed=7" = "63b908dc-8575-4d0d-8d20-bc5bff4522c9"
+    "multimode__dtilde=0.01__seed=8" = "5cb8fe9f-c44a-4309-9f1d-bb3c958c3684"
+    "multimode__dtilde=0.01__seed=9" = "e21d2225-d534-472e-b742-843ff88f31a6"
+
+    [settings.sources.svd]
+    "multimode__dtilde=0.01__seed=1" = "17088091-41ab-4a06-a2ba-b4e3c1bfcdc3"
+    "multimode__dtilde=0.01__seed=10" = "bd31da51-0911-43c0-b1e1-d54802c7ef1f"
+    "multimode__dtilde=0.01__seed=11" = "a3affb04-e6de-459c-8b16-184928060260"
+    "multimode__dtilde=0.01__seed=12" = "2f3cb9eb-5e75-43a2-80a1-0f5c9ab51b12"
+    "multimode__dtilde=0.01__seed=13" = "b8d82c93-353f-48f3-9e3f-292bf999928b"
+    "multimode__dtilde=0.01__seed=14" = "b9c78939-6000-48a5-9516-1d7a6695c0a9"
+    "multimode__dtilde=0.01__seed=15" = "3220822c-1b60-4dc5-9e29-818d02dc745e"
+    "multimode__dtilde=0.01__seed=16" = "2c2b057f-76df-404a-8950-43931dec9983"
+    "multimode__dtilde=0.01__seed=2" = "09aec996-f986-4644-acbf-f99d8ee5a76c"
+    "multimode__dtilde=0.01__seed=3" = "7f20587f-e766-4fd5-a32a-1c049efd0c8c"
+    "multimode__dtilde=0.01__seed=4" = "3152527d-5753-4436-ba0b-6e39afd83801"
+    "multimode__dtilde=0.01__seed=5" = "9993ca9b-865c-41f2-9e33-0825ca3729b5"
+    "multimode__dtilde=0.01__seed=6" = "daba65a3-2fe4-4eb2-accc-8255c43c73b6"
+    "multimode__dtilde=0.01__seed=7" = "4d7d6a5c-2118-4f9f-8a68-b593ea888314"
+    "multimode__dtilde=0.01__seed=8" = "7d4d99a7-a3bd-40f8-8a3e-6ee410ecee35"
+    "multimode__dtilde=0.01__seed=9" = "e9dbe76d-d874-4f2f-9c2a-088f9c728593"
+
+    [settings.time_grid]
+    n = 540
+    t_max = 1.0e6
+    t_min = 0.01

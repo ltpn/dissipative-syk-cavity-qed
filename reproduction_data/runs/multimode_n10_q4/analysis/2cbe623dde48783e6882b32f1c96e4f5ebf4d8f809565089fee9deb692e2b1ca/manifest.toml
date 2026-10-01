@@ -1,0 +1,244 @@
+analysis_id = "2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca"
+compatibility = ["runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/multimode/multimode_centered__norb=10__f=4__ngrid=160__M=300__deltacd=1__dtilde=10.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/multimode/multimode_centered__norb=10__f=4__ngrid=160__M=300__deltacd=1__dtilde=0p1.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/multimode/multimode_centered__norb=10__f=4__ngrid=160__M=300__deltacd=1__dtilde=1.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/multimode/multimode_centered__norb=10__f=4__ngrid=160__M=300__deltacd=1__dtilde=0p01.jld2"]
+compatibility_note = "complete"
+failed = 0
+outputs = ["runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.01__seed=1.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.01__seed=10.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.01__seed=11.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.01__seed=12.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.01__seed=13.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.01__seed=14.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.01__seed=15.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.01__seed=16.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.01__seed=2.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.01__seed=3.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.01__seed=4.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.01__seed=5.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.01__seed=6.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.01__seed=7.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.01__seed=8.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.01__seed=9.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.1__seed=1.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.1__seed=10.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.1__seed=11.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.1__seed=12.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.1__seed=13.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.1__seed=14.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.1__seed=15.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.1__seed=16.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.1__seed=2.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.1__seed=3.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.1__seed=4.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.1__seed=5.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.1__seed=6.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.1__seed=7.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.1__seed=8.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=0.1__seed=9.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=1.0__seed=1.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=1.0__seed=10.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=1.0__seed=11.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=1.0__seed=12.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=1.0__seed=13.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=1.0__seed=14.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=1.0__seed=15.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=1.0__seed=16.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=1.0__seed=2.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=1.0__seed=3.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=1.0__seed=4.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=1.0__seed=5.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=1.0__seed=6.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=1.0__seed=7.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=1.0__seed=8.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=1.0__seed=9.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=10.0__seed=1.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=10.0__seed=10.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=10.0__seed=11.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=10.0__seed=12.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=10.0__seed=13.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=10.0__seed=14.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=10.0__seed=15.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=10.0__seed=16.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=10.0__seed=2.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=10.0__seed=3.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=10.0__seed=4.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=10.0__seed=5.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=10.0__seed=6.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=10.0__seed=7.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=10.0__seed=8.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dynamics/multimode__dtilde=10.0__seed=9.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/sigma-sff/cdd6582e406da7853b9ccd5c20e461301719017b29284eaf2be66eed4996a195.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dsff/cdd6582e406da7853b9ccd5c20e461301719017b29284eaf2be66eed4996a195.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/csr/cdd6582e406da7853b9ccd5c20e461301719017b29284eaf2be66eed4996a195.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/sigma-sff/4a3b129ca3ba6208a5bc2dcf4c54d1be1f0f3be09cd10f0a5d7c777c39cda9f1.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dsff/4a3b129ca3ba6208a5bc2dcf4c54d1be1f0f3be09cd10f0a5d7c777c39cda9f1.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/csr/4a3b129ca3ba6208a5bc2dcf4c54d1be1f0f3be09cd10f0a5d7c777c39cda9f1.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/sigma-sff/afef06e74fe0fe1112383ad41f25b1ca277c4f0851f60730e5e20161973f967c.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dsff/afef06e74fe0fe1112383ad41f25b1ca277c4f0851f60730e5e20161973f967c.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/csr/afef06e74fe0fe1112383ad41f25b1ca277c4f0851f60730e5e20161973f967c.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/sigma-sff/3e1059d660fd3fab0f6ee4896e7fb5412eff7c3b9639960b249c12193a09bf0f.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/dsff/3e1059d660fd3fab0f6ee4896e7fb5412eff7c3b9639960b249c12193a09bf0f.jld2", "runs/multimode_n10_q4/analysis/2cbe623dde48783e6882b32f1c96e4f5ebf4d8f809565089fee9deb692e2b1ca/csr/3e1059d660fd3fab0f6ee4896e7fb5412eff7c3b9639960b249c12193a09bf0f.jld2"]
+path_root = "../../../.."
+production_seed_count = 16
+seed_note = "selected_seeds are realization slots; replacements record actual seeds independently for eigen and SVD"
+selected_seeds = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+shard_count = 1
+shard_index = 1
+tasks = ["sigma-sff", "dsff", "csr", "dynamics"]
+
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-34"
+seed = 34
+slot_id = "multimode__dtilde=0.01__seed=13"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-18"
+seed = 18
+slot_id = "multimode__dtilde=0.01__seed=8"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-20"
+seed = 20
+slot_id = "multimode__dtilde=0.1__seed=13"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-19"
+seed = 19
+slot_id = "multimode__dtilde=0.1__seed=7"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-35"
+seed = 35
+slot_id = "multimode__dtilde=1.0__seed=14"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-22"
+seed = 22
+slot_id = "multimode__dtilde=1.0__seed=16"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-36"
+seed = 36
+slot_id = "multimode__dtilde=1.0__seed=2"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-24"
+seed = 24
+slot_id = "multimode__dtilde=1.0__seed=4"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-25"
+seed = 25
+slot_id = "multimode__dtilde=1.0__seed=6"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-41"
+seed = 41
+slot_id = "multimode__dtilde=1.0__seed=7"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-27"
+seed = 27
+slot_id = "multimode__dtilde=10.0__seed=10"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-38"
+seed = 38
+slot_id = "multimode__dtilde=10.0__seed=11"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-29"
+seed = 29
+slot_id = "multimode__dtilde=10.0__seed=12"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-40"
+seed = 40
+slot_id = "multimode__dtilde=10.0__seed=14"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-31"
+seed = 31
+slot_id = "multimode__dtilde=10.0__seed=15"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-32"
+seed = 32
+slot_id = "multimode__dtilde=10.0__seed=5"
+stage = "eigen"
+[[replacements]]
+directory = "runs/multimode_n10_q4/recovery/attempts/seed-33"
+seed = 33
+slot_id = "multimode__dtilde=10.0__seed=8"
+stage = "eigen"
+
+[settings]
+replacement_export_schema = 1
+tasks = ["csr", "dsff", "dynamics", "sigma-sff"]
+
+    [settings.analysis]
+
+    [settings.dynamics]
+    entropy_eig_tol = 1.0e-12
+
+    [settings.sources.eigen]
+    "multimode__dtilde=0.01__seed=1" = "9ce947f1-5a13-4928-a4ab-f0d0d736ff70"
+    "multimode__dtilde=0.01__seed=10" = "dc374efc-fc66-4544-9454-5c683f7c777a"
+    "multimode__dtilde=0.01__seed=11" = "ed77c9c4-f639-40a2-bc8f-2ce8688c9206"
+    "multimode__dtilde=0.01__seed=12" = "20afb445-e3ee-469e-af63-73bd92a247fb"
+    "multimode__dtilde=0.01__seed=13" = "b1729751-e3fa-48f5-9bb6-7397ea240fd4"
+    "multimode__dtilde=0.01__seed=14" = "cad7081f-a3d1-4a74-840a-41fdacef2b05"
+    "multimode__dtilde=0.01__seed=15" = "ff91a11a-a8fa-43f2-8dd5-f2c894d0eeda"
+    "multimode__dtilde=0.01__seed=16" = "38660c73-0733-4d12-920b-f89ca823cb49"
+    "multimode__dtilde=0.01__seed=2" = "16b31a08-31fc-45f7-95a8-d5c40db1041a"
+    "multimode__dtilde=0.01__seed=3" = "e03c1fa3-d90c-4ee7-a694-ba2c91273b43"
+    "multimode__dtilde=0.01__seed=4" = "e045d03b-4529-42bf-8d1d-756325f6af2c"
+    "multimode__dtilde=0.01__seed=5" = "53e8d2df-bfae-4f95-a18a-2b19131c6aa9"
+    "multimode__dtilde=0.01__seed=6" = "ce79b11d-bb6b-4711-8db5-13c528fde535"
+    "multimode__dtilde=0.01__seed=7" = "4ddfeba9-0fb4-46e1-a329-bafb9907c5a3"
+    "multimode__dtilde=0.01__seed=8" = "14146ae9-bf55-4480-9ec5-4d302b66c21a"
+    "multimode__dtilde=0.01__seed=9" = "5f9458af-bc40-4d05-881b-bf75ba640ae8"
+    "multimode__dtilde=0.1__seed=1" = "e62fb92b-b88a-4b6b-bcfb-3e154ff32819"
+    "multimode__dtilde=0.1__seed=10" = "8c5ccfbd-a00d-4674-b95c-40a483ab03a7"
+    "multimode__dtilde=0.1__seed=11" = "873ed487-b7d9-40bf-8a88-57f78a758271"
+    "multimode__dtilde=0.1__seed=12" = "31e14bed-b549-4328-9546-1910637e1162"
+    "multimode__dtilde=0.1__seed=13" = "d52d8d2a-cebc-48cf-9d03-6cc719a6feac"
+    "multimode__dtilde=0.1__seed=14" = "d6fe451c-5fdc-4b96-adaa-743e3d3bb791"
+    "multimode__dtilde=0.1__seed=15" = "4fc5b265-43f9-439a-8174-8a4286bc0f49"
+    "multimode__dtilde=0.1__seed=16" = "f42c9cfe-a5d6-4d03-8f18-086018f2a09e"
+    "multimode__dtilde=0.1__seed=2" = "94fef220-baf0-4e97-8f51-b7d2884c772e"
+    "multimode__dtilde=0.1__seed=3" = "d5cff1d2-79b1-459a-bb8a-ed2c76f5fab0"
+    "multimode__dtilde=0.1__seed=4" = "0ec78545-7ef6-41f5-970a-641210611489"
+    "multimode__dtilde=0.1__seed=5" = "0a1b6e16-920e-4113-8065-6ac617b949f4"
+    "multimode__dtilde=0.1__seed=6" = "92a72f95-2696-4340-9ec9-81582d52f2fe"
+    "multimode__dtilde=0.1__seed=7" = "c1dbbbc9-45ef-40e3-8dc8-403a6c35bae9"
+    "multimode__dtilde=0.1__seed=8" = "3932d0da-22a4-4f69-b1ef-04b7b0deff8e"
+    "multimode__dtilde=0.1__seed=9" = "611ef62c-eed4-46cf-9174-019d46ea7d5a"
+    "multimode__dtilde=1.0__seed=1" = "2d705cd8-a4a1-48c0-9db6-45740f98ec59"
+    "multimode__dtilde=1.0__seed=10" = "06aae248-9843-4706-bd8e-365ed8771ceb"
+    "multimode__dtilde=1.0__seed=11" = "98952d32-923a-4694-8596-fb5537375bc5"
+    "multimode__dtilde=1.0__seed=12" = "da275c77-7828-437b-8d56-036c0b50239d"
+    "multimode__dtilde=1.0__seed=13" = "d2c0ad3a-84bf-4883-888a-468c70a66c83"
+    "multimode__dtilde=1.0__seed=14" = "8bc7bcfe-2690-4eb0-b13a-08b9c84de3c0"
+    "multimode__dtilde=1.0__seed=15" = "94632b47-b6b1-4fa0-955f-81bd7e01ad10"
+    "multimode__dtilde=1.0__seed=16" = "6458855f-69da-44dc-9120-f6631ad90c96"
+    "multimode__dtilde=1.0__seed=2" = "f9c186d9-7c5b-4b60-bf4d-14303c28c33d"
+    "multimode__dtilde=1.0__seed=3" = "d9f069b8-e5fd-40d4-a654-ef0de10d0f97"
+    "multimode__dtilde=1.0__seed=4" = "b2782e7b-1e3e-4f20-b571-fd5736180a79"
+    "multimode__dtilde=1.0__seed=5" = "88594c81-10f2-4e77-8d16-84948906cd4a"
+    "multimode__dtilde=1.0__seed=6" = "b577bc46-e413-4c07-9926-635fb4d5efa9"
+    "multimode__dtilde=1.0__seed=7" = "5e8ed03c-12e4-4ee0-af35-8b2f14dc2b03"
+    "multimode__dtilde=1.0__seed=8" = "b60b8e6b-dc68-4513-b88c-6e9914b4874b"
+    "multimode__dtilde=1.0__seed=9" = "ba1a914a-ce4e-4a59-a253-419be0a5bb0c"
+    "multimode__dtilde=10.0__seed=1" = "63d316c1-7894-4c25-bf40-16b39381ef39"
+    "multimode__dtilde=10.0__seed=10" = "07261583-4ef2-498c-b899-87750b1fd5fb"
+    "multimode__dtilde=10.0__seed=11" = "d49e7a1f-63f7-4ea6-b3d2-0dcfdfb710d3"
+    "multimode__dtilde=10.0__seed=12" = "efe26efc-6121-451d-8022-6bbfca1cc759"
+    "multimode__dtilde=10.0__seed=13" = "9814b82d-b583-4fab-a32d-42b305aafb73"
+    "multimode__dtilde=10.0__seed=14" = "93cb85cc-df10-4f84-89f6-208de89484f0"
+    "multimode__dtilde=10.0__seed=15" = "389f1c86-4619-4e61-9101-5a6ad05e2475"
+    "multimode__dtilde=10.0__seed=16" = "505fbaea-cb0a-4280-b013-c1f61844616e"
+    "multimode__dtilde=10.0__seed=2" = "599524a2-485e-441a-b2de-ca8f1badb6b8"
+    "multimode__dtilde=10.0__seed=3" = "cd5807b2-2bbe-4ab9-bcc8-8e8e2ca11be2"
+    "multimode__dtilde=10.0__seed=4" = "7c78eec4-308e-4c5c-8ff8-6dc0ca91d56b"
+    "multimode__dtilde=10.0__seed=5" = "61479641-e1ae-464b-82a1-bb77993b248e"
+    "multimode__dtilde=10.0__seed=6" = "ee244b3c-1bc9-48b0-9b1c-7da0bd3f2804"
+    "multimode__dtilde=10.0__seed=7" = "e7abe9b5-63b9-4939-bda8-6df612a34acf"
+    "multimode__dtilde=10.0__seed=8" = "08c3cec8-729b-45b7-a7a7-6323752aa179"
+    "multimode__dtilde=10.0__seed=9" = "340c15ce-9b45-41d6-b7df-71d44ebf36d0"
+
+    [settings.sources.svd]
+    "multimode__dtilde=0.01__seed=1" = "639477d4-ff1d-4a90-8e0b-200cf58c5240"
+    "multimode__dtilde=0.01__seed=10" = "d472b8a1-755e-4e05-b884-770af36b6884"
+    "multimode__dtilde=0.01__seed=11" = "82bf8204-a06d-4307-8b4f-b0e398416e96"
+    "multimode__dtilde=0.01__seed=12" = "a0a5de5f-cba4-43e6-99fa-b3786588e8f1"
+    "multimode__dtilde=0.01__seed=13" = "7644b38f-ccf6-4a8c-b744-929eb0fdcce7"
+    "multimode__dtilde=0.01__seed=14" = "56c68af7-d2ee-4e11-9022-54ae35827d84"
+    "multimode__dtilde=0.01__seed=15" = "df84f5e0-1048-4828-81a3-5d8aa468f4f9"
+    "multimode__dtilde=0.01__seed=16" = "95ff563a-9402-4219-8337-46e245a51c39"
+    "multimode__dtilde=0.01__seed=2" = "63bd20d5-2ff5-4fd9-a3b3-8137f47630e4"
+    "multimode__dtilde=0.01__seed=3" = "65257899-e160-435f-aee4-87f92a66479d"
+    "multimode__dtilde=0.01__seed=4" = "9d4883bb-d004-40bb-88f1-fcbe70c09ea4"
+    "multimode__dtilde=0.01__seed=5" = "e6b1a84e-0de0-4d9e-b58b-65c2e30eab79"
+    "multimode__dtilde=0.01__seed=6" = "438227fd-e488-4115-82c5-5633e2ee6a04"
+    "multimode__dtilde=0.01__seed=7" = "378ab4b5-ced4-4f0f-9375-200765c4be84"
+    "multimode__dtilde=0.01__seed=8" = "058d46a6-3382-4acc-8b15-78a7bbbf805f"
+    "multimode__dtilde=0.01__seed=9" = "194d13b6-f0a9-4a54-967b-c674fa35a089"
+    "multimode__dtilde=0.1__seed=1" = "7dce06a5-9bfe-41cb-8a73-479ae777671a"
+    "multimode__dtilde=0.1__seed=10" = "2dd00dee-7d45-45b4-8a2e-2e5334463fa2"
+    "multimode__dtilde=0.1__seed=11" = "02344dab-03a5-450e-a823-269ade7ac8d3"
+    "multimode__dtilde=0.1__seed=12" = "37a02c24-1eba-4969-a043-0aceb7b275fd"
+    "multimode__dtilde=0.1__seed=13" = "52443337-05ca-4d7a-b8a0-766c111d2577"
+    "multimode__dtilde=0.1__seed=14" = "1ac4393d-9ab7-4c19-8c15-d4f3ddd92f91"
+    "multimode__dtilde=0.1__seed=15" = "28ddd79a-808b-4cef-a3de-3604824c70b8"
+    "multimode__dtilde=0.1__seed=16" = "c7e0823d-855e-413b-b6e2-2b57c4e583d5"
+    "multimode__dtilde=0.1__seed=2" = "8d9e6495-c28b-492f-a288-18f0661f6084"
+    "multimode__dtilde=0.1__seed=3" = "e1511554-eeac-4836-a491-cfa0d57c6fe2"
+    "multimode__dtilde=0.1__seed=4" = "6b2fb234-6c12-4940-ba40-3c3ca09f5791"
+    "multimode__dtilde=0.1__seed=5" = "ef61966e-5dbf-40b2-ad54-f72aef59f705"
+    "multimode__dtilde=0.1__seed=6" = "b6a48009-7927-4444-99e5-14cbb9c84ae1"
+    "multimode__dtilde=0.1__seed=7" = "9a5b137b-7324-47e3-9c57-2908c59394dc"
+    "multimode__dtilde=0.1__seed=8" = "9951c131-44ba-4ebb-b65d-e43ac9a0800f"
+    "multimode__dtilde=0.1__seed=9" = "a8c8b5b1-ae48-47a6-9d81-9df9895f15c5"
+    "multimode__dtilde=1.0__seed=1" = "99f780fa-f712-4570-88f7-388cccad63a3"
+    "multimode__dtilde=1.0__seed=10" = "5bad07c2-b7c6-4bbd-9067-5c8edb434461"
+    "multimode__dtilde=1.0__seed=11" = "710e8f1d-6a4d-4ded-8363-1abc4d2261ca"
+    "multimode__dtilde=1.0__seed=12" = "7ae3a63f-6f0e-41ea-9389-fc6194ff76ad"
+    "multimode__dtilde=1.0__seed=13" = "fd6b031e-e9c5-47fd-b1ab-0b86db964441"
+    "multimode__dtilde=1.0__seed=14" = "c5d61be1-359c-4d66-b5c6-edd90b687121"
+    "multimode__dtilde=1.0__seed=15" = "c2c697ec-2827-4ef7-bc0d-a964d8543b12"
+    "multimode__dtilde=1.0__seed=16" = "20f2b1a6-b9be-48de-9544-57315a0f27e5"
+    "multimode__dtilde=1.0__seed=2" = "82364094-4edd-4600-825b-6426ca7753bb"
+    "multimode__dtilde=1.0__seed=3" = "5bf88e6f-de5a-494a-8c7c-4de66d98acd5"
+    "multimode__dtilde=1.0__seed=4" = "b37aa131-e077-4103-8cb3-ab0cd45b7f71"
+    "multimode__dtilde=1.0__seed=5" = "5e42fd43-643c-45af-b49d-dcad9df7b268"
+    "multimode__dtilde=1.0__seed=6" = "3763e027-7961-4f9d-81ad-37f5b8942d4b"
+    "multimode__dtilde=1.0__seed=7" = "7c94737b-0e0f-43e6-8175-4685a6d7f6fe"
+    "multimode__dtilde=1.0__seed=8" = "042084fe-3dec-430a-aa12-7a0e9cf0c278"
+    "multimode__dtilde=1.0__seed=9" = "f864545b-e5d1-4c1c-9c30-cc1cf78d81dc"
+    "multimode__dtilde=10.0__seed=1" = "cd022b9e-7f0f-47a1-a3d2-a942b360cb88"
+    "multimode__dtilde=10.0__seed=10" = "2ee4ab8b-199b-45ff-8d0d-0bdcdb1f358f"
+    "multimode__dtilde=10.0__seed=11" = "a0259422-76e3-4e9e-8082-9dc78447d7fe"
+    "multimode__dtilde=10.0__seed=12" = "d93e3cc1-4e76-4853-8e6e-a1d011537e9b"
+    "multimode__dtilde=10.0__seed=13" = "5b48a33c-2ceb-44f5-b15b-d4772cbebd50"
+    "multimode__dtilde=10.0__seed=14" = "c20c91f3-f32c-4ddb-9891-4f01b04d3cbd"
+    "multimode__dtilde=10.0__seed=15" = "102c2252-539f-4589-87eb-6fe828877907"
+    "multimode__dtilde=10.0__seed=16" = "1c4955a8-b7ec-4d0f-9b35-4cf288075b06"
+    "multimode__dtilde=10.0__seed=2" = "53fcd5a4-e701-487b-9d58-296f382e9bf2"
+    "multimode__dtilde=10.0__seed=3" = "cd6a44a6-d529-4b3a-b368-74f7a624404b"
+    "multimode__dtilde=10.0__seed=4" = "e0192007-0877-4946-9f9c-7f196f1f3ee4"
+    "multimode__dtilde=10.0__seed=5" = "43bcfdba-3f44-4c3d-b793-4cba3b8e7963"
+    "multimode__dtilde=10.0__seed=6" = "372fab90-54aa-4e80-9d05-aace96fec507"
+    "multimode__dtilde=10.0__seed=7" = "cab63b9f-800d-4e43-879e-330053fea92f"
+    "multimode__dtilde=10.0__seed=8" = "f59d26e5-3885-468e-8f41-ca8ee3906250"
+    "multimode__dtilde=10.0__seed=9" = "743cc021-704d-4000-b214-3db23bb1d94a"
+
+    [settings.time_grid]
+    n = 540
+    t_max = 1.0e6
+    t_min = 0.01

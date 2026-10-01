@@ -1,0 +1,23 @@
+K_liouville = 44100
+config = "runs/physical_n10_q4/config.toml"
+delta_cd_over_2pi_mhz = 1.0
+etas = [0.1, 0.4, 1.0, 2.0]
+filling = 4
+hilbert_dim = 210
+n_orb = 10
+n_seeds = 16
+path_root = "../reproduction_data"
+seed_range = [1, 16]
+spectra_dir = "runs/physical_n10_q4/analysis/f09a308d6bacee5dd57871a07ae8bce15eebbafd31b3b66592ba4251e9121019/spectra"
+steady_tol = 1.0e-8
+svd_tol = 1.0e-10
+
+[l2_overlay]
+config = "runs/syk4_control/config.toml"
+config_name = "synthetic_l3b_bdi_syk4"
+eta = 2.0
+gamma = 1.0
+n_seeds = 16
+seed_range = [1, 16]
+spectra_dir = "runs/syk4_control/analysis/92d4ce0ffffa4fef008236eb4b8999b34bf1189a06f62d3f11afd56c5bed0f8a/spectra"
+svd_tol = 1.0e-10

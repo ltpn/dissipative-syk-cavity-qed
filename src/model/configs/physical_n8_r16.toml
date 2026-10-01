@@ -1,0 +1,31 @@
+[grid]
+configs = ["physical"]
+etas = [2.0]
+gammas = [1.0]
+seed_count = 16
+baseline_svd_tol = 1e-10
+
+[numerics]
+n_orb = 8
+n_grid = 160
+box_length = 15.0
+correlation_length = 1.0
+disorder_strength = 1.0
+J = 1.0
+lambda_c_micron = 0.671
+kappa_over_2pi_mhz = 0.2
+
+[numerics.time_grid]
+t_min = 1e-2
+t_max = 1e6
+n = 540
+
+[dynamics]
+entropy_eig_tol = 1e-12
+
+[execution]
+parallel_tasks = 2
+blas_threads = 1
+
+[output]
+data_subdir = "physical/n8_r16"
