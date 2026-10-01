@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the following paper."
+title: "Dissipation-induced Sachdev–Ye–Kitaev physics in many-body cavity quantum electrodynamics"
+authors:
+  - family-names: Pacchioni
+    given-names: Pietro
+  - family-names: Ferrari
+    given-names: Filippo
+  - family-names: Savona
+    given-names: Vincenzo
+  - family-names: Seclì
+    given-names: Matteo
+identifiers:
+  - type: arxiv
+    value: "2608.23557"
