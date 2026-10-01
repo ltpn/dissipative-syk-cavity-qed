@@ -17,3 +17,5 @@ authors:
 identifiers:
   - type: arxiv
     value: "2608.23557"
+preferred-citation:
+  type: article
