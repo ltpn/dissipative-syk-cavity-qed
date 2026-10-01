@@ -32,5 +32,8 @@ preferred-citation:
     - family-names: Seclì
       given-names: Matteo
       orcid: "https://orcid.org/0000-0002-9608-096X"
+  journal: "arXiv preprint"
+  month: 8
+  title: "Dissipation-induced Sachdev-Ye-Kitaev physics in many-body cavity quantum electrodynamics"
   doi: "10.48550/arXiv.2608.23557"
   year: 2026
