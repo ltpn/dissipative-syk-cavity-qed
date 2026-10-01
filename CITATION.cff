@@ -4,12 +4,16 @@ title: "Dissipation-induced Sachdev–Ye–Kitaev physics in many-body cavity qu
 authors:
   - family-names: Pacchioni
     given-names: Pietro
+    orcid: "https://orcid.org/0000-0001-7496-3836"
   - family-names: Ferrari
     given-names: Filippo
+    orcid: "https://orcid.org/0009-0003-6317-0816"
   - family-names: Savona
     given-names: Vincenzo
+    orcid: "https://orcid.org/0000-0002-8984-6584"
   - family-names: Seclì
     given-names: Matteo
+    orcid: "https://orcid.org/0000-0002-9608-096X"
 identifiers:
   - type: arxiv
     value: "2608.23557"
