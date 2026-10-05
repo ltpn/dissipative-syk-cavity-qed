@@ -1,0 +1,79 @@
+name: Figures
+
+on:
+  push:
+  release:
+    types: [published]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 360
+    env:
+      JULIA_NUM_THREADS: '2'
+      OPENBLAS_NUM_THREADS: '1'
+    steps:
+      - name: Check out code and light data
+        uses: actions/checkout@v7
+        with:
+          lfs: true
+          persist-credentials: false
+
+      - name: Set up Julia
+        uses: julia-actions/setup-julia@v3
+        with:
+          version: '1.12.6'
+
+      - name: Cache Julia environment
+        uses: julia-actions/cache@v3
+        with:
+          delete-old-caches: 'false'
+
+      - name: Install figure export tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends ghostscript fonts-lmodern
+
+      - name: Instantiate Julia environment
+        run: julia --project=src/environment -e 'using Pkg; Pkg.instantiate()'
+
+      - name: Regenerate figures from the light dataset
+        run: >-
+          julia --project=src/environment src/model/scripts/reproduce_figures.jl
+          --data-root reproduction_data --mode plot --output-dir figures
+
+      - name: Upload figures
+        uses: actions/upload-artifact@v7
+        with:
+          name: figures
+          path: |
+            figures/*.pdf
+            figures/*.png
+            figures/*.toml
+          if-no-files-found: error
+
+  release:
+    if: github.event_name == 'release'
+    needs: regenerate
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
+    steps:
+      - name: Download regenerated figures
+        uses: actions/download-artifact@v8
+        with:
+          name: figures
+          path: figures
+
+      - name: Attach figures to the published release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RELEASE_TAG: ${{ github.event.release.tag_name }}
+        run: |
+          tar -czf figures.tar.gz figures
+          gh release upload "$RELEASE_TAG" figures.tar.gz --clobber

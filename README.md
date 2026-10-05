@@ -3,9 +3,11 @@ Code and figure data for “Dissipation-induced Sachdev–Ye–Kitaev physics in
 
 ## Reproducing the figures
 
-This repository contains the Julia code for the numerical figures in [the paper](https://arxiv.org/abs/2608.23557) *Dissipation-induced Sachdev–Ye–Kitaev physics in many-body cavity quantum electrodynamics*. The calculations generate ensembles of Liouvillians with different random seeds, compute their spectra, and obtain spectral statistics ($\rm\sigma SFF$, $\rm DSFF$, $\rm CSR$) and dynamical quantities (entropy, occupations). The PDFs in [`figures/`](figures/) are included for reference. The light dataset in [`reproduction_data/`](reproduction_data/) allows Figures 1–3, the complex-spacing-ratio strip and the raw-form-factor supplement to be replotted without downloading the full dataset or repeating eigendecompositions.
+This repository contains the Julia code for the numerical figures in [the paper](https://arxiv.org/abs/2608.23557) *Dissipation-induced Sachdev–Ye–Kitaev physics in many-body cavity quantum electrodynamics*. The calculations generate ensembles of Liouvillians with different random seeds, compute their spectra, and obtain spectral statistics ($\rm\sigma SFF$, $\rm DSFF$, $\rm CSR$) and dynamical quantities (entropy, occupations). The light dataset in [`reproduction_data/`](reproduction_data/) allows Figures 1–3, the complex-spacing-ratio strip and the raw-form-factor supplement to be replotted without downloading the full dataset or repeating eigendecompositions. The [figure workflow](https://github.com/ltpn/dissipative-syk-cavity-qed/actions/workflows/figures.yml) regenerates the figures in the `figures/` directory on every push and uploads PDFs, PNGs and manifests TOMLs as the `figures` artifact. Published [releases](https://github.com/ltpn/dissipative-syk-cavity-qed/releases) also include `figures.tar.gz`.
 
 ## Setup
+
+[Git LFS](https://git-lfs.com/) is required to download the data.
 
 The code can be run with Julia 1.12.6. Ghostscript (`gs`) is used for figure export. The commands below should be run from the repository root. Install the Julia environment with:
 
@@ -112,9 +114,9 @@ Use the desired ensemble size by setting `--n-seeds`, and point `numerics.calibr
 
 ## Figures 1 and 2
 
-Set `PHYSICAL` and `CONTROL` to the `spectra/` directories printed by postprocessing. Figure 1 also needs the two smaller size datasets for the inset: in [`figures/source_n6.toml`](figures/source_n6.toml) and [`figures/source_n8.toml`](figures/source_n8.toml), set `path_root = ".."`, then set `config`, `spectra_dir` and `n_seeds` to their corresponding inputs using repository-relative paths. `cache_dir` and `cache_paths` specify where their derived form-factor data are saved.
+Set `PHYSICAL` and `CONTROL` to the `spectra/` directories printed by postprocessing. Figure 1 also needs the two smaller size datasets for the inset: copy [`source_n6.toml`](reproduction_data/figures/source_n6.toml) and [`source_n8.toml`](reproduction_data/figures/source_n8.toml) into your output directory, set `path_root = ".."`, then set `config`, `spectra_dir` and `n_seeds` to their corresponding inputs using repository-relative paths. `cache_dir` and `cache_paths` specify where their derived form-factor data are saved.
 
-Some preparation steps for the DSFF are needed before rendering Figure 1. Copy [`figure_1__manifest.toml`](figures/figure_1__manifest.toml) to `figure1_source.toml`, set `path_root = "."`, and set its `spectra_dir` and `[l2_overlay].spectra_dir` to `PHYSICAL` and `CONTROL`. If changing Q or the ensemble size, also update `filling`, `hilbert_dim = binomial(10,Q)`, `K_liouville = hilbert_dim²`, `n_seeds` and `seed_range`, including the control's seed entries. With `R` set to that ensemble size, run:
+Some preparation steps for the DSFF are needed before rendering Figure 1. Copy [`figure_1__manifest.toml`](reproduction_data/figures/figure_1__manifest.toml) to `figure1_source.toml`, set `path_root = "."`, and set its `spectra_dir` and `[l2_overlay].spectra_dir` to `PHYSICAL` and `CONTROL`. If changing Q or the ensemble size, also update `filling`, `hilbert_dim = binomial(10,Q)`, `K_liouville = hilbert_dim²`, `n_seeds` and `seed_range`, including the control's seed entries. With `R` set to that ensemble size, run:
 
 ```sh
 R=16

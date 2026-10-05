@@ -36,7 +36,7 @@ JuliaLocalPreferences.toml
 *.out
 *.err
 *.tmp.*
-/figures/*.png
+/figures/
 __pycache__/
 /reproduced_figures/
 
