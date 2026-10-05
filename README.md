@@ -1,5 +1,9 @@
 # dissipative-syk-cavity-qed
-Code and figure data for “Dissipation-induced Sachdev–Ye–Kitaev physics in many-body cavity quantum electrodynamics” (arXiv:2608.23557).
+
+[![DOI](https://zenodo.org/badge/1400128569.svg)](https://zenodo.org/badge/latestdoi/1400128569)
+[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg?style=flat)](https://arxiv.org/abs/1234.56789)
+
+Code and figure data for “Dissipation-induced Sachdev–Ye–Kitaev physics in many-body cavity quantum electrodynamics” ([`arXiv:2608.23557`](https://arxiv.org/abs/2608.23557)).
 
 ## Reproducing the figures
 
