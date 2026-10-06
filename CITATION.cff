@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the following paper."
-title: "Dissipation-induced Sachdev–Ye–Kitaev physics in many-body cavity quantum electrodynamics"
+title: "Dissipation-induced Sachdev-Ye-Kitaev physics in many-body cavity quantum electrodynamics"
 authors:
   - family-names: Pacchioni
     given-names: Pietro
