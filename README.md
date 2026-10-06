@@ -3,11 +3,11 @@
 [![DOI](https://zenodo.org/badge/1400128569.svg)](https://zenodo.org/badge/latestdoi/1400128569)
 [![arXiv](https://img.shields.io/badge/arXiv-2608.23557-b31b1b.svg?style=flat)](https://arxiv.org/abs/2608.23557)
 
-Code and figure data for “Dissipation-induced Sachdev–Ye–Kitaev physics in many-body cavity quantum electrodynamics” ([`arXiv:2608.23557`](https://arxiv.org/abs/2608.23557)).
+Code and figure data for “Dissipation-induced Sachdev-Ye-Kitaev physics in many-body cavity quantum electrodynamics” ([`arXiv:2608.23557`](https://arxiv.org/abs/2608.23557)).
 
 ## Reproducing the figures
 
-This repository contains the Julia code for the numerical figures in [the paper](https://arxiv.org/abs/2608.23557) *Dissipation-induced Sachdev–Ye–Kitaev physics in many-body cavity quantum electrodynamics*. The calculations generate ensembles of Liouvillians with different random seeds, compute their spectra, and obtain spectral statistics ($\rm\sigma SFF$, $\rm DSFF$, $\rm CSR$) and dynamical quantities (entropy, occupations). The light dataset in [`reproduction_data/`](reproduction_data/) allows Figures 1–3, the complex-spacing-ratio strip and the raw-form-factor supplement to be replotted without downloading the full dataset or repeating eigendecompositions. The [figure workflow](https://github.com/ltpn/dissipative-syk-cavity-qed/actions/workflows/figures.yml) regenerates the figures in the `figures/` directory on every push and uploads PDFs, PNGs and manifests TOMLs as the `figures` artifact. Published [releases](https://github.com/ltpn/dissipative-syk-cavity-qed/releases) also include `figures.tar.gz`.
+This repository contains the Julia code for the numerical figures in [the paper](https://arxiv.org/abs/2608.23557) *Dissipation-induced Sachdev-Ye-Kitaev physics in many-body cavity quantum electrodynamics*. The calculations generate ensembles of Liouvillians with different random seeds, compute their spectra, and obtain spectral statistics ($\rm\sigma SFF$, $\rm DSFF$, $\rm CSR$) and dynamical quantities (entropy, occupations). The light dataset in [`reproduction_data/`](reproduction_data/) allows Figures 1–3, the complex-spacing-ratio strip and the raw-form-factor supplement to be replotted without downloading the full dataset or repeating eigendecompositions. The [figure workflow](https://github.com/ltpn/dissipative-syk-cavity-qed/actions/workflows/figures.yml) regenerates the figures in the `figures/` directory on every push and uploads PDFs, PNGs and manifests TOMLs as the `figures` artifact. Published [releases](https://github.com/ltpn/dissipative-syk-cavity-qed/releases) also include `figures.tar.gz`.
 
 ## Setup
 
@@ -185,4 +185,4 @@ The figure plotting scripts save PDFs and their TOML manifests in `figures/` by 
 
 If you use this code, please cite the paper:
 
-> P. Pacchioni, F. Ferrari, V. Savona, and M. Seclì, “Dissipation-induced Sachdev–Ye–Kitaev physics in many-body cavity quantum electrodynamics,” arXiv:2608.23557 (2026). https://arxiv.org/abs/2608.23557
+> P. Pacchioni, F. Ferrari, V. Savona, and M. Seclì, “Dissipation-induced Sachdev-Ye-Kitaev physics in many-body cavity quantum electrodynamics,” arXiv:2608.23557 (2026). https://arxiv.org/abs/2608.23557
