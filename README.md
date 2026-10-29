@@ -60,7 +60,7 @@ For the full dataset route [`reproduction_data/dataset.toml`](reproduction_data/
 
 | Light data | Figure role |
 | --- | --- |
-| `physical_n10_q4` spectra | Figure 1  $\sigma\mathrm{SFF}$/$\mathrm{DSFF}$; Figure 2 entropy/occupations; single-mode $\mathrm{CSR}$ and raw form factors. |
+| `physical_n10_q4` spectra | Figure 1  $\sigma\mathrm{SFF}$ / $\mathrm{DSFF}$; Figure 2 entropy/occupations; single-mode $\mathrm{CSR}$ and raw form factors. |
 | `syk4_control` spectra | Figures 1–2 $\mathrm{SYK4}$ comparisons; control $\mathrm{CSR}$ and raw form factors. |
 | `physical_n6`, `physical_n8` spectra | Figure 1 finite-size inset. |
 | `multimode_n10_q4` merged caches | Figure 3 $\sigma\mathrm{SFF}$/occupations; multimode $\mathrm{CSR}$ and raw form factors. |
