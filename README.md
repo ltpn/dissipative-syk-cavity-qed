@@ -38,7 +38,7 @@ After installing the Julia environment and Ghostscript, choose a starting point.
 | --- | --- |
 | Configurations only | Run `generate`, `eigen`, `svd`, `postprocess` as described in the following, then the figure commands below. |
 | Downloaded full dataset | Run the command below with `--mode postprocess --data-root /path/to/downloaded_dataset`. This reuses saved decompositions, recomputes dynamics/statistics and renders the five figures. Enough RAM is needed to load the stored eigenvectors |
-| Bundled light dataset | Run the command below directly. Add `--mode statistics` to recompute the final $\mathrm{DSFF}$, $\sigma\text{-}\mathrm{SFF}$, $\mathrm{CSR}$ and raw-form-factor statistics from the saved spectra. Occupations and entropy as a function of time are already saved. |
+| Bundled light dataset | Run the command below directly. Add `--mode statistics` to recompute the final $\mathrm{DSFF}$, $\sigma\mathrm{SFF}$, $\mathrm{CSR}$ and raw-form-factor statistics from the saved spectra. Occupations and entropy as a function of time are already saved. |
 
 ```sh
 jrun src/model/scripts/reproduce_figures.jl --output-dir reproduced_figures
@@ -60,10 +60,10 @@ For the full dataset route [`reproduction_data/dataset.toml`](reproduction_data/
 
 | Light data | Figure role |
 | --- | --- |
-| `physical_n10_q4` spectra | Figure 1  $\sigma\text{-}\mathrm{SFF}$/$\mathrm{DSFF}$; Figure 2 entropy/occupations; single-mode $\mathrm{CSR}$ and raw form factors. |
+| `physical_n10_q4` spectra | Figure 1  $\sigma\mathrm{SFF}$/$\mathrm{DSFF}$; Figure 2 entropy/occupations; single-mode $\mathrm{CSR}$ and raw form factors. |
 | `syk4_control` spectra | Figures 1–2 $\mathrm{SYK4}$ comparisons; control $\mathrm{CSR}$ and raw form factors. |
 | `physical_n6`, `physical_n8` spectra | Figure 1 finite-size inset. |
-| `multimode_n10_q4` merged caches | Figure 3 $\sigma\text{-}\mathrm{SFF}$/occupations; multimode $\mathrm{CSR}$ and raw form factors. |
+| `multimode_n10_q4` merged caches | Figure 3 $\sigma\mathrm{SFF}$/occupations; multimode $\mathrm{CSR}$ and raw form factors. |
 | `multimode_n6_f3`, `multimode_n8_f4` merged caches | Figure 3 finite-size inset. |
 | `fig3_m300` spectra | Figure 3 dissipative $\mathrm{SYK4}$ comparison and its raw form factors. |
 | `figures/*plotdata.jld2`, `derived/sigma_sff/`, `data/` | Prepared plot data, singular-value caches, random-matrix references and calibrations. |
@@ -166,7 +166,7 @@ The supplementary figures can be produced using the same environment. The script
 | Figure | Inputs and commands |
 | --- | --- |
 | Complex spacing ratios | `src/model/scripts/analysis/csr_synthetic_ladder/plot_csr_strip.jl` reads `--physical-dir`, `--control-dir` and `--multimode-cache-dir`; supply `--n-orb`, `--filling`, `--n-seeds` and `--output-dir`. |
-| Raw $\sigma\text{-}\mathrm{SFF}$ and $\mathrm{DSFF}$ | `supplement_raw_sigma_sff_dsff.jl` reads `--figure1-manifest` and `--figure3-manifest` from the previous figures, plus `--output-dir`. |
+| Raw $\sigma\mathrm{SFF}$ and $\mathrm{DSFF}$ | `supplement_raw_sigma_sff_dsff.jl` reads `--figure1-manifest` and `--figure3-manifest` from the previous figures, plus `--output-dir`. |
 | Integrable corner | `bash src/model/scripts/slurm/submit_integrable_corner.sh` computes both panels and renders them. For individual calculations, `integrable_corner_compute.jl` accepts `--n-orb`, `--filling`, `--seed` and `--output`. `integrable_corner_render.jl` reads `--cache-dir` and `--panel-a`, with `--output-dir`. |
 
 For the coherent Gibbs-state survival figure, use [`cgs_survival_beta0_n8_q4.toml`](src/model/configs/cgs_survival_beta0_n8_q4.toml), which fixes $N = 8$, $Q = 4$ and uses seeds $1,\ldots,64$. First obtain the single-mode $N = 8$ baseline calibration with `calibrate_ladder_stats.jl` as above. Then run `calibrate_cgs_figure3_syk4_reference.jl` with `--config`, `--baseline-calibration`, `--n-seeds 64`, `--n-random-jumps 300`, `--target-delta-tilde 0.01` and `--output` pointing to `$STORE/cgs_survival/calibration/figure3_diss_syk_n8_q4_m300.jld2`.
